@@ -15,7 +15,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	>
 <channel>
 	<title>ScutterCast Enhanced Edition</title>
-	<atom:link href="http://www.reddwarfforum.com/feed/enhanced/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://feeds.feedburner.com/ScuttercastEnhancedEdition" rel="self" type="application/rss+xml" />
 	<link>http://www.reddwarfforum.com</link>
 	<description>An enhanced podcast, reviewing past and present episodes of Red Dwarf, with some speculation of future episodes. Also we discuss current Red Dwarf news and rumour in the GrooveTown section, and finish off with a general chit chat in the Parrots Bar</description>
 	<lastBuildDate>Tue, 19 Feb 2019 14:56:56 +0000</lastBuildDate>
@@ -43,7 +43,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<itunes:category text="TV &amp; Film" />
 	<googleplay:category text="TV &amp; Film"/>
 	<rawvoice:location>UK</rawvoice:location>
-	<rawvoice:subscribe feed="http://www.reddwarfforum.com/feed/enhanced/" itunes="http://itunes.apple.com/gb/podcast/scuttercast-enhanced-edition/id309071356"></rawvoice:subscribe>
+	<rawvoice:subscribe feed="http://feeds.feedburner.com/ScuttercastEnhancedEdition" itunes="http://itunes.apple.com/gb/podcast/scuttercast-enhanced-edition/id309071356"></rawvoice:subscribe>
 <site xmlns="com-wordpress:feed-additions:1">179141281</site>	<item>
 		<title>ScutterCast &#124; Episode 67 &#124; Can of Worms</title>
 		<link>http://www.reddwarfforum.com/2017/06/scuttercast-episode-67-can-of-worms/</link>
