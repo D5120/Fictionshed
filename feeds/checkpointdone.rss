@@ -15,8 +15,8 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	>
 <channel>
 	<title>CheckPointDone!</title>
-	<atom:link href="http://www.checkpointdone.com/feed/podcast/" rel="self" type="application/rss+xml" />
-	<link>http://www.checkpointdone.com</link>
+	<atom:link href="http://feeds.feedburner.com/checkpointdone/" rel="self" type="application/rss+xml" />
+	<link>http://feeds.feedburner.com/checkpointdone</link>
 	<description>Home of the CheckPointDone Podcast!</description>
 	<lastBuildDate>Fri, 16 Aug 2019 08:00:36 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -27,7 +27,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 <image>
 	<url>https://i2.wp.com/www.checkpointdone.com/wp-content/uploads/2016/05/cropped-CPDSiteIcon.png?fit=32%2C32</url>
 	<title>CheckPointDone!</title>
-	<link>http://www.checkpointdone.com</link>
+	<link>http://feeds.feedburner.com/checkpointdone</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -47,13 +47,13 @@ Feel free to get in contact by twitter @checkpointdone, via email podcast@checkp
 	<image>
 		<title>CheckPointDone!</title>
 		<url>https://raw.githubusercontent.com/D5120/Fictionshed/master/images/checkpointdone.png</url>
-		<link>http://www.checkpointdone.com</link>
+		<link>http://feeds.feedburner.com/checkpointdone</link>
 	</image>
 	<itunes:category text="Games &amp; Hobbies">
 		<itunes:category text="Video Games"></itunes:category>
 	</itunes:category>
 	<rawvoice:location>United Kingdom</rawvoice:location>
-	<rawvoice:subscribe feed="http://www.checkpointdone.com/feed/podcast/" itunes="https://itunes.apple.com/gb/podcast/checkpointdone/id1052349611"></rawvoice:subscribe>
+	<rawvoice:subscribe feed="http://feeds.feedburner.com/checkpointdone/" itunes="https://itunes.apple.com/gb/podcast/checkpointdone/id1052349611"></rawvoice:subscribe>
 <site xmlns="com-wordpress:feed-additions:1">101629858</site>	<item>
 		<title>Episode 100 &#124; Ode To Darren</title>
 		<link>http://www.checkpointdone.com/episode-100-ode-to-darren/</link>
