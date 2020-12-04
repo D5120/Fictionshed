@@ -25,7 +25,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<generator>https://wordpress.org/?v=5.4.2</generator>
 
 <image>
-	<url>https://i2.wp.com/www.checkpointdone.com/wp-content/uploads/2016/05/cropped-CPDSiteIcon.png?fit=32%2C32</url>
+	<url>https://raw.githubusercontent.com/D5120/Fictionshed/master/images/checkpointdone.png</url>
 	<title>CheckPointDone!</title>
 	<link>http://feeds.feedburner.com/checkpointdone</link>
 	<width>32</width>
@@ -34,7 +34,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 <!-- podcast_generator="Blubrry PowerPress/7.4.4" mode="advanced" feedslug="podcast" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
 	<itunes:summary>CheckPointDone! podcast with hosts @D5120 and @foxhouder01. A general chat about video games, tv, movies, comics and all things geeky.&lt;br /&gt;
 Feel free to get in contact by twitter @checkpointdone, via email checkpointdonepodcast@gmail.com or pop to the site checkpointdone.com</itunes:summary>
-	<itunes:author>CheckPointDone!</itunes:author>
+	<itunes:author>Fictionshed</itunes:author>
 	<itunes:explicit>yes</itunes:explicit>
 	<itunes:image href="https://raw.githubusercontent.com/D5120/Fictionshed/master/images/checkpointdone.png" />
 	<itunes:owner>
@@ -42,7 +42,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<itunes:email>checkpointdonepodcast@gmail.com</itunes:email>
 	</itunes:owner>
 	<managingEditor>checkpointdonepodcast@gmail.com (CheckPointDone!)</managingEditor>
-	<copyright>Fictionshed.com</copyright>
+	<copyright>Fictionshed</copyright>
 	<itunes:subtitle>Home of the CheckPointDone Podcast!</itunes:subtitle>
 	<image>
 		<title>CheckPointDone!</title>
@@ -83,7 +83,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone100.mp3" length="92709185" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 100 of the CheckPointDone! Podcast! In this episode Darren talks about his week off work, office moves, decorating, hanging with the parents and festivals…Meanwhile, Terry talks MCM Comic Con, his week off work, new toys</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 100 of the CheckPointDone! Podcast! In this episode Darren talks about his week off work, office moves, decorating, hanging with the parents and festivals…Meanwhile, Terry talks MCM Comic Con, his week off work, new toys</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:36:17</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7297</post-id>		</item>
@@ -116,7 +116,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone099.mp3" length="48513343" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 99 of the CheckPointDone! Podcast. In this episode Darren talks about healthy stuff, bike stuff, buying a GoPro, mesh stuff and walking kittens?…Meanwhile, Terry talks not doing much in ‘Stuff we’ve done’. Terry talks spoiler</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 99 of the CheckPointDone! Podcast. In this episode Darren talks about healthy stuff, bike stuff, buying a GoPro, mesh stuff and walking kittens?…Meanwhile, Terry talks not doing much in ‘Stuff we’ve done’. Terry talks spoiler</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>50:15</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7293</post-id>		</item>
@@ -149,7 +149,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone098.mp3" length="41529663" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 98 of the CheckPointDone! Podcast. In this episode Darren talks about healthy stuff, going on an adventure stag do and picking up a “cheap” mountain bike. Meanwhile, Terry talks about visiting Sheffield and going to play</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 98 of the CheckPointDone! Podcast. In this episode Darren talks about healthy stuff, going on an adventure stag do and picking up a “cheap” mountain bike. Meanwhile, Terry talks about visiting Sheffield and going to play</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>42:58</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7286</post-id>		</item>
@@ -179,7 +179,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone097.mp3" length="57833415" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 97 of the CheckPointDone! Podcast. In this episode Darren talks about landscaping, visiting parents and even more kitten adventures. Meanwhile, Terry talks about the National Videogame Museum in ‘Stuff we’ve done’.</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 97 of the CheckPointDone! Podcast. In this episode Darren talks about landscaping, visiting parents and even more kitten adventures. Meanwhile, Terry talks about the National Videogame Museum in ‘Stuff we’ve done’. We talk spoiler free about</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>59:57</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7280</post-id>		</item>
@@ -209,7 +209,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone096.mp3" length="39936821" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 96 of the CheckPointDone! Podcast. In this episode Darren talks about doing “some” running and his kitten adventures. Meanwhile, Terry talks about walking, massages, and foam rollers in ‘Stuff we’ve done’.</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 96 of the CheckPointDone! Podcast. In this episode Darren talks about doing “some” running and his kitten adventures. Meanwhile, Terry talks about walking, massages, and foam rollers in ‘Stuff we’ve done’. We talk spoiler free about</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>41:19</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7274</post-id>		</item>
@@ -239,7 +239,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone095.mp3" length="51519724" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 95 of the CheckPointDone! Podcast. In this episode Darren talks joining a new gym, and getting new kittens. Meanwhile, Terry talks about massages in ‘Stuff we’ve done’. We talk spoiler free about games including: Borderlan...</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 95 of the CheckPointDone! Podcast. In this episode Darren talks joining a new gym, and getting new kittens. Meanwhile, Terry talks about massages in ‘Stuff we’ve done’. We talk spoiler free about games including: Borderlands 2,</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>53:23</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7268</post-id>		</item>
@@ -269,7 +269,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone094.mp3" length="45786160" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 94 of the CheckPointDone! Podcast. In this episode Darren talks his Dirty Weekend, Tough Mudder and Gardening. Meanwhile, Terry talks streaming and running in ‘Stuff we’ve done’.</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 94 of the CheckPointDone! Podcast. In this episode Darren talks his Dirty Weekend, Tough Mudder and Gardening. Meanwhile, Terry talks streaming and running in ‘Stuff we’ve done’. We talk spoiler free about games including: Borderlands 2,</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>47:24</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7262</post-id>		</item>
@@ -299,7 +299,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone093.mp3" length="74208220" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 93 of the CheckPointDone! Podcast. In this episode Darren talks his week off, his radioactive cat and his fancy new washer. Meanwhile, Terry talks being able to breathe again and Free Comic Book Day in ‘Stuff</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 93 of the CheckPointDone! Podcast. In this episode Darren talks his week off, his radioactive cat and his fancy new washer. Meanwhile, Terry talks being able to breathe again and Free Comic Book Day in ‘Stuff</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:17:01</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7256</post-id>		</item>
@@ -329,7 +329,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone092.mp3" length="62059400" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 92 of the CheckPointDone! Podcast. In this episode Darren talks about random real life stuff as well as climbing a huge hill. Meanwhile, Terry talks about not being able to breathe as well as Record Store</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 92 of the CheckPointDone! Podcast. In this episode Darren talks about random real life stuff as well as climbing a huge hill. Meanwhile, Terry talks about not being able to breathe as well as Record Store</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:04:21</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7251</post-id>		</item>
@@ -359,7 +359,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone091.mp3" length="54922747" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 91 of the CheckPointDone! Podcast. In this episode Darren talks about random real life shiz. Meanwhile, Terry talks about car woes and life in general in ‘Stuff we’ve done’. We talk spoiler free about games including:</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 91 of the CheckPointDone! Podcast. In this episode Darren talks about random real life shiz. Meanwhile, Terry talks about car woes and life in general in ‘Stuff we’ve done’. We talk spoiler free about games including:</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>56:55</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7249</post-id>		</item>
@@ -389,7 +389,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone090.mp3" length="61356393" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 90 of the CheckPointDone! Podcast. In this episode Darren talks about his Mighty Deerstalker event and the death of a games console (RIP). Meanwhile, Terry talks about escaping to the moors in ‘Stuff we’ve done’. We</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 90 of the CheckPointDone! Podcast. In this episode Darren talks about his Mighty Deerstalker event and the death of a games console (RIP). Meanwhile, Terry talks about escaping to the moors in ‘Stuff we’ve done’. We</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:03:37</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7240</post-id>		</item>
@@ -419,7 +419,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone089.mp3" length="51524739" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 89 of the CheckPointDone! Podcast. In this episode Darren talks about running on t’moors and preparing for his first event of the year. Meanwhile, Terry talks about…stuff in ‘Stuff we’ve done’. We talk spoiler free about</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 89 of the CheckPointDone! Podcast. In this episode Darren talks about running on t’moors and preparing for his first event of the year. Meanwhile, Terry talks about…stuff in ‘Stuff we’ve done’. We talk spoiler free about</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>53:23</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7236</post-id>		</item>
@@ -449,7 +449,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone088.mp3" length="71236530" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 88 of the CheckPointDone! Podcast. In this episode Darren talks about running long distances, bad technology and alcohol. Meanwhile, Terry talks about dogs and work stuff in ‘Stuff we’ve done’.</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 88 of the CheckPointDone! Podcast. In this episode Darren talks about running long distances, bad technology and alcohol. Meanwhile, Terry talks about dogs and work stuff in ‘Stuff we’ve done’. We talk spoiler free about games</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:13:55</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7229</post-id>		</item>
@@ -479,7 +479,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone087.mp3" length="61433297" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 87 of the CheckPointDone! Podcast. In this episode Darren talks about eBay woes, Birthday bashes, knee bashes and equipment buying. Meanwhile, Terry talks about work woes, spring cleaning and more gyming it up in ‘Stuff we’ve</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 87 of the CheckPointDone! Podcast. In this episode Darren talks about eBay woes, Birthday bashes, knee bashes and equipment buying. Meanwhile, Terry talks about work woes, spring cleaning and more gyming it up in ‘Stuff we’ve</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:03:42</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7220</post-id>		</item>
@@ -511,7 +511,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone086.mp3" length="71108635" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 86 of the CheckPointDone! Podcast. In this episode Darren talks about that work life, running in the dark and being on yet another podcast?! Meanwhile, Terry talks about eye tests, car woes and gyming it</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 86 of the CheckPointDone! Podcast. In this episode Darren talks about that work life, running in the dark and being on yet another podcast?! Meanwhile, Terry talks about eye tests, car woes and gyming it</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:13:47</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7215</post-id>		</item>
@@ -542,7 +542,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone085.mp3" length="89835296" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to first ever episode 85 of the CheckPointDone! Podcast. In this episode Darren talks about his very first flu jab. Meanwhile, Terry talks about his brand new tech and hitting it off with a certain someone who</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to first ever episode 85 of the CheckPointDone! Podcast. In this episode Darren talks about his very first flu jab. Meanwhile, Terry talks about his brand new tech and hitting it off with a certain someone who</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:33:17</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7213</post-id>		</item>
@@ -572,7 +572,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone084.mp3" length="67622885" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 84, the first episode of 2019 (but recorded in 2018)! of the CheckPointDone! Podcast. In this episode Darren talks about his December running challenge as well as his Christmas break. Meanwhile, Terry talks about his</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 84, the first episode of 2019 (but recorded in 2018)! of the CheckPointDone! Podcast. In this episode Darren talks about his December running challenge as well as his Christmas break. Meanwhile, Terry talks about his</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:10:09</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7207</post-id>		</item>
@@ -602,7 +602,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone083.mp3" length="77992803" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 83, the last episode of 2018! of the CheckPointDone! Podcast. In this episode Darren talks about being full of cold, family fun and being left home alone. Meanwhile, Terry talks about his work Christmas party,</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 83, the last episode of 2018! of the CheckPointDone! Podcast. In this episode Darren talks about being full of cold, family fun and being left home alone. Meanwhile, Terry talks about his work Christmas party,</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:20:57</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7204</post-id>		</item>
@@ -633,7 +633,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone082.mp3" length="80371827" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 82 of the CheckPointDone! Podcast. In this episode Darren talks about taking a busy work life, Christmas nonsense and a lot of running. Meanwhile, Terry talks about work stuff and…things in ‘Stuff we’ve done’. We</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 82 of the CheckPointDone! Podcast. In this episode Darren talks about taking a busy work life, Christmas nonsense and a lot of running. Meanwhile, Terry talks about work stuff and…things in ‘Stuff we’ve done’. We</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:23:26</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7198</post-id>		</item>
@@ -664,7 +664,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone081.mp3" length="79766204" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 81 of the CheckPointDone! Podcast. In this episode Darren talks about taking a week off, fencing, impulse buying, deleting things and…Amazon Echoes?!. Meanwhile, Terry is getting all zen and shit in ‘Stuff we’ve done’. We</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 81 of the CheckPointDone! Podcast. In this episode Darren talks about taking a week off, fencing, impulse buying, deleting things and…Amazon Echoes?!. Meanwhile, Terry is getting all zen and shit in ‘Stuff we’ve done’. We</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:22:48</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7192</post-id>		</item>
@@ -694,7 +694,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone080.mp3" length="58478289" type="audio/mpeg" />
 		<itunes:subtitle>Hello, and welcome to episode 80 of the CheckPointDone! Podcast. In this episode Darren talks about running up a mountain and buying himself a new toy. Terry talks about…things? in ‘Stuff we’ve done’. We talk spoiler free about games including:</itunes:subtitle>
 		<itunes:summary>Hello, and welcome to episode 80 of the CheckPointDone! Podcast. In this episode Darren talks about running up a mountain and buying himself a new toy. Terry talks about…things? in ‘Stuff we’ve done’. We talk spoiler free about games including:</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:00:37</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7186</post-id>		</item>
@@ -724,7 +724,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone079.mp3" length="65626645" type="audio/mpeg" />
 		<itunes:subtitle>Bonjour! Welcome to episode 79 of the CheckPointDone! Podcast. In this episode Darren talks about his man stuff, Man Cave v2.0, manflu and his birthday. Terry talks about his birthday stuff as well as dabbling with Dolby Atmos in ‘Stuff</itunes:subtitle>
 		<itunes:summary>Bonjour! Welcome to episode 79 of the CheckPointDone! Podcast. In this episode Darren talks about his man stuff, Man Cave v2.0, manflu and his birthday. Terry talks about his birthday stuff as well as dabbling with Dolby Atmos in ‘Stuff</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:08:04</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7183</post-id>		</item>
@@ -754,7 +754,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone078.mp3" length="92689502" type="audio/mpeg" />
 		<itunes:subtitle>Oh, hey there! Welcome to episode 78 of the CheckPointDone! Podcast. In this episode Darren talks about his charity bike ride, half marathons, and the man cave is no more. Terry talks about his oral drilling and his first aid</itunes:subtitle>
 		<itunes:summary>Oh, hey there! Welcome to episode 78 of the CheckPointDone! Podcast. In this episode Darren talks about his charity bike ride, half marathons, and the man cave is no more. Terry talks about his oral drilling and his first aid</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:36:16</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7177</post-id>		</item>
@@ -784,7 +784,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone077.mp3" length="97327177" type="audio/mpeg" />
 		<itunes:subtitle>Oh, hey there! Welcome to episode 77 of the CheckPointDone! Podcast. In this episode Darren talks his Ceterparcs journey, having the dreaded Man Flu, doing EVEN MORE healthy stuff. Terry talks about his OLED envy, conducting experiments in the name</itunes:subtitle>
 		<itunes:summary>Oh, hey there! Welcome to episode 77 of the CheckPointDone! Podcast. In this episode Darren talks his Ceterparcs journey, having the dreaded Man Flu, doing EVEN MORE healthy stuff. Terry talks about his OLED envy, conducting experiments in the name</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:41:06</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7174</post-id>		</item>
@@ -810,7 +810,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone076.mp3" length="91076598" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 76 of the CheckPointDone! Podcast. In this episode Darren talks about his new toys, signing up for healthy season passes and a major fail. Meanwhile, Terry talks about his round 2 at the dentists in ‘Stuff we’ve</itunes:subtitle>
 		<itunes:summary>Welcome to episode 76 of the CheckPointDone! Podcast. In this episode Darren talks about his new toys, signing up for healthy season passes and a major fail. Meanwhile, Terry talks about his round 2 at the dentists in ‘Stuff we’ve</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:34:35</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7171</post-id>		</item>
@@ -836,7 +836,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone075.mp3" length="83900656" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 75 of the CheckPointDone! Podcast. In this episode Darren talks about Tough Mudder adventures. Meanwhile, Terry talks about his interesting weekend away at Siverstone in ‘Stuff we’ve done’.</itunes:subtitle>
 		<itunes:summary>Welcome to episode 75 of the CheckPointDone! Podcast. In this episode Darren talks about Tough Mudder adventures. Meanwhile, Terry talks about his interesting weekend away at Siverstone in ‘Stuff we’ve done’. We talk spoiler free about games including: Fallout 4, Xbox</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:27:06</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7165</post-id>		</item>
@@ -862,7 +862,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone074.mp3" length="75135216" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 74 of the CheckPointDone! Podcast. In this episode Darren talks about his week off, home stuff, running stuff and a visit from the parents. Meanwhile, Terry talks about his dentist adventures and buying jaunting shoes in ‘Stuff we’ve</itunes:subtitle>
 		<itunes:summary>Welcome to episode 74 of the CheckPointDone! Podcast. In this episode Darren talks about his week off, home stuff, running stuff and a visit from the parents. Meanwhile, Terry talks about his dentist adventures and buying jaunting shoes in ‘Stuff we’ve</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:17:59</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7162</post-id>		</item>
@@ -888,7 +888,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone073.mp3" length="80892186" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 73 of the CheckPointDone! Podcast. In this episode Darren talks about being sociable again at Splendour and Tough Mudder. Meanwhile, Terry talks about going on Summer Jaunts in ‘Stuff we’ve done’.</itunes:subtitle>
 		<itunes:summary>Welcome to episode 73 of the CheckPointDone! Podcast. In this episode Darren talks about being sociable again at Splendour and Tough Mudder. Meanwhile, Terry talks about going on Summer Jaunts in ‘Stuff we’ve done’. We talk spoiler free about games including:</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:23:58</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7153</post-id>		</item>
@@ -914,7 +914,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone072.mp3" length="68838243" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 72 of the CheckPointDone! Podcast. In this episode Darren talks about being sociable again, Water Wipeout, Gotham Fest, cleaning up brambles and a £160 cat flap(??) in ‘Stuff we’ve done’.</itunes:subtitle>
 		<itunes:summary>Welcome to episode 72 of the CheckPointDone! Podcast. In this episode Darren talks about being sociable again, Water Wipeout, Gotham Fest, cleaning up brambles and a £160 cat flap(??) in ‘Stuff we’ve done’. We talk spoiler free about games including: Fallout</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:11:25</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7150</post-id>		</item>
@@ -940,7 +940,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone071.mp3" length="75735406" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 71 of the CheckPointDone! Podcast. In this episode Darren talks about being sociable and coming back to the nest. Also, Terry talks about 4k goodness in ‘Stuff we’ve done’. We talk spoiler free about games including: Battlefield 1,</itunes:subtitle>
 		<itunes:summary>Welcome to episode 71 of the CheckPointDone! Podcast. In this episode Darren talks about being sociable and coming back to the nest. Also, Terry talks about 4k goodness in ‘Stuff we’ve done’. We talk spoiler free about games including: Battlefield 1,</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:18:36</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7144</post-id>		</item>
@@ -966,7 +966,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone070.mp3" length="60139259" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 70 of the CheckPointDone! Podcast. In this episode Darren talks about taking part in the Warrior Assault, a new watch (that isn’t Apple?!). Also, Terry talks about going Pokémon hunting and upgrading tech in ‘Stuff we’ve done’. We</itunes:subtitle>
 		<itunes:summary>Welcome to episode 70 of the CheckPointDone! Podcast. In this episode Darren talks about taking part in the Warrior Assault, a new watch (that isn’t Apple?!). Also, Terry talks about going Pokémon hunting and upgrading tech in ‘Stuff we’ve done’. We</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:02:21</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7141</post-id>		</item>
@@ -993,7 +993,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone069.mp3" length="63377607" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 69 (giggidy) of the CheckPointDone! Podcast. In this episode Darren talks about fixing machines as well as himself. Also, Terry talks about going to Comic Con in ‘Stuff we’ve done’. In ‘Facepalm’ Darren is less zen than usual</itunes:subtitle>
 		<itunes:summary>Welcome to episode 69 (giggidy) of the CheckPointDone! Podcast. In this episode Darren talks about fixing machines as well as himself. Also, Terry talks about going to Comic Con in ‘Stuff we’ve done’. In ‘Facepalm’ Darren is less zen than usual</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:05:44</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7134</post-id>		</item>
@@ -1019,7 +1019,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone068.mp3" length="59779396" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 68 of the CheckPointDone! Podcast. In this episode Darren talks about being addicted to playing in mud. Also, Terry talks about life and MCM Comic Con in ‘Stuff we’ve done’. We talk spoiler free about games including: Until</itunes:subtitle>
 		<itunes:summary>Welcome to episode 68 of the CheckPointDone! Podcast. In this episode Darren talks about being addicted to playing in mud. Also, Terry talks about life and MCM Comic Con in ‘Stuff we’ve done’. We talk spoiler free about games including: Until</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:01:59</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7128</post-id>		</item>
@@ -1045,7 +1045,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone067.mp3" length="54378945" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 67 of the CheckPointDone! Podcast. In this episode Darren talks about being sociable in a kitty cafe and enjoying his week off. Also, Terry talks about his Free Comic Book Day adventures in ‘Stuff we’ve done’. We talk</itunes:subtitle>
 		<itunes:summary>Welcome to episode 67 of the CheckPointDone! Podcast. In this episode Darren talks about being sociable in a kitty cafe and enjoying his week off. Also, Terry talks about his Free Comic Book Day adventures in ‘Stuff we’ve done’. We talk</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>56:21</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7125</post-id>		</item>
@@ -1071,7 +1071,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone066.mp3" length="80689476" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 66 of the CheckPointDone! Podcast. In this episode Darren talks about being sociable, for reasons!. Also, Terry talks about cat sitting in ‘Stuff we’ve done’. We talk spoiler free about games including: Wipeout VR, Trackmania VR,</itunes:subtitle>
 		<itunes:summary>Welcome to episode 66 of the CheckPointDone! Podcast. In this episode Darren talks about being sociable, for reasons!. Also, Terry talks about cat sitting in ‘Stuff we’ve done’. We talk spoiler free about games including: Wipeout VR, Trackmania VR, Horizon Zero</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:23:46</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7118</post-id>		</item>
@@ -1097,7 +1097,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone065.mp3" length="79084095" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 65 of the CheckPointDone! Podcast. In this episode Darren discusses finishing his kitchen(!) and doing more Park Runs. Also, Terry talks about his gaming changing headphones in ‘Stuff we’ve done’.</itunes:subtitle>
 		<itunes:summary>Welcome to episode 65 of the CheckPointDone! Podcast. In this episode Darren discusses finishing his kitchen(!) and doing more Park Runs. Also, Terry talks about his gaming changing headphones in ‘Stuff we’ve done’. We talk spoiler free about games including: Horizon</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:22:05</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7115</post-id>		</item>
@@ -1123,7 +1123,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone064.mp3" length="62834678" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 64 of the CheckPointDone! Podcast. In this episode Darren discusses his first Park Run, another stupid cold, kitchen related things, bike riding and his and Terry’s X-Runner experience in ‘Stuff we’ve done’.</itunes:subtitle>
 		<itunes:summary>Welcome to episode 64 of the CheckPointDone! Podcast. In this episode Darren discusses his first Park Run, another stupid cold, kitchen related things, bike riding and his and Terry’s X-Runner experience in ‘Stuff we’ve done’. We talk spoiler free about games</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:05:10</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7109</post-id>		</item>
@@ -1149,7 +1149,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone063.mp3" length="71646511" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 63 of the CheckPointDone! Podcast. In this episode Darren discusses his kitchen renovations, trip to Liverpool and an apology to Terry?! Also, Terry talks about doing his 5k…ish in ‘Stuff we’ve done’. We talk spoiler free about games</itunes:subtitle>
 		<itunes:summary>Welcome to episode 63 of the CheckPointDone! Podcast. In this episode Darren discusses his kitchen renovations, trip to Liverpool and an apology to Terry?! Also, Terry talks about doing his 5k…ish in ‘Stuff we’ve done’. We talk spoiler free about games</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:14:20</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7106</post-id>		</item>
@@ -1177,7 +1177,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone062.mp3" length="81431772" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 62 of the CheckPointDone! Podcast. In this episode Darren discusses his kitchen renovations and our activity challenge. Terry also talks about exercise things in ‘Stuff we’ve done’. In ‘Facepalm’ Darren stressed out and wants to fire...</itunes:subtitle>
 		<itunes:summary>Welcome to episode 62 of the CheckPointDone! Podcast. In this episode Darren discusses his kitchen renovations and our activity challenge. Terry also talks about exercise things in ‘Stuff we’ve done’. In ‘Facepalm’ Darren stressed out and wants to fire the temp</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:24:32</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7096</post-id>		</item>
@@ -1202,7 +1202,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone061.mp3" length="78159151" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 61 of the CheckPointDone! Podcast. In this episode Darren discusses his week off, real life stuff, man tools and a going to a local beer festival and Terry talks about exercise things and going from an XL</itunes:subtitle>
 		<itunes:summary>Welcome to episode 61 of the CheckPointDone! Podcast. In this episode Darren discusses his week off, real life stuff, man tools and a going to a local beer festival and Terry talks about exercise things and going from an XL</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:21:08</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7089</post-id>		</item>
@@ -1227,7 +1227,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone060.mp3" length="64124500" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 60 of the CheckPointDone! Podcast. In this episode Darren discusses man flu and working out a lot and Terry talks about exercise things and his trip to London in ‘Stuff we’ve done’. We talk spoiler free about games</itunes:subtitle>
 		<itunes:summary>Welcome to episode 60 of the CheckPointDone! Podcast. In this episode Darren discusses man flu and working out a lot and Terry talks about exercise things and his trip to London in ‘Stuff we’ve done’. We talk spoiler free about games</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:06:30</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7083</post-id>		</item>
@@ -1252,7 +1252,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone059.mp3" length="73450005" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 59 of the CheckPointDone! Podcast. In this episode Darren discusses his radical decisions and old man stuff and Terry talks about exercise things in ‘Stuff we’ve done’. We talk spoiler free about games including: Legend of Zelda: Breath</itunes:subtitle>
 		<itunes:summary>Welcome to episode 59 of the CheckPointDone! Podcast. In this episode Darren discusses his radical decisions and old man stuff and Terry talks about exercise things in ‘Stuff we’ve done’. We talk spoiler free about games including: Legend of Zelda: Breath</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:16:13</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7077</post-id>		</item>
@@ -1277,7 +1277,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone058.mp3" length="79124637" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 58 of the CheckPointDone! Podcast. Happy New Year! In this episode we discuss Christtmas things in ‘Stuff we’ve done’. We talk spoiler free about games including: Legend of Zelda: Breath of the Wild Playerunknown’s Battlegrounds,</itunes:subtitle>
 		<itunes:summary>Welcome to episode 58 of the CheckPointDone! Podcast. Happy New Year! In this episode we discuss Christtmas things in ‘Stuff we’ve done’. We talk spoiler free about games including: Legend of Zelda: Breath of the Wild Playerunknown’s Battlegrounds, Arms and Road</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:22:08</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7071</post-id>		</item>
@@ -1305,7 +1305,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone057.mp3" length="122348722" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 57 of the CheckPointDone! Podcast and the last episode of 2017! In this episode, Darren discusses doing family and chilling out. Terry gets ill and talks about Christmas things in ‘Stuff we’ve done’. In ‘Facepalm’ Darren complains about</itunes:subtitle>
 		<itunes:summary>Welcome to episode 57 of the CheckPointDone! Podcast and the last episode of 2017! In this episode, Darren discusses doing family and chilling out. Terry gets ill and talks about Christmas things in ‘Stuff we’ve done’. In ‘Facepalm’ Darren complains about</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>2:07:09</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7068</post-id>		</item>
@@ -1332,7 +1332,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone056.mp3" length="64437133" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 56 of the CheckPointDone! Podcast In this episode, Darren discusses doing adult stuff and entertaining people. Terry goes on his first proper work Christmas outing in ‘Stuff we’ve done’. In ‘Facepalm’ Darren discusses issues with TV ...</itunes:subtitle>
 		<itunes:summary>Welcome to episode 56 of the CheckPointDone! Podcast In this episode, Darren discusses doing adult stuff and entertaining people. Terry goes on his first proper work Christmas outing in ‘Stuff we’ve done’. In ‘Facepalm’ Darren discusses issues with TV ads and</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:06:50</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7059</post-id>		</item>
@@ -1359,7 +1359,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone055.mp3" length="93475265" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 55 of the CheckPointDone! Podcast In this episode, Darren discusses Xbox One X stuff, running, manful (about time!) and funeral stuff. Terry does the usual nothing in ‘Stuff we’ve done’. In ‘Facepalm’ Darren discusses issues with Xbo...</itunes:subtitle>
 		<itunes:summary>Welcome to episode 55 of the CheckPointDone! Podcast In this episode, Darren discusses Xbox One X stuff, running, manful (about time!) and funeral stuff. Terry does the usual nothing in ‘Stuff we’ve done’. In ‘Facepalm’ Darren discusses issues with Xbox One</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:37:05</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7053</post-id>		</item>
@@ -1385,7 +1385,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone054.mp3" length="92598387" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 54 of the CheckPointDone! Podcast In this episode, Darren discusses his week off, his reading corner, Xbox One X anticipation and correcting himself…Terry just talks about bum problems in ‘Stuff we’ve done’.</itunes:subtitle>
 		<itunes:summary>Welcome to episode 54 of the CheckPointDone! Podcast In this episode, Darren discusses his week off, his reading corner, Xbox One X anticipation and correcting himself…Terry just talks about bum problems in ‘Stuff we’ve done’. We talk spoiler free about games</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:36:10</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7044</post-id>		</item>
@@ -1414,7 +1414,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone053.mp3" length="89579886" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 53 of the CheckPointDone! Podcast. In this episode, Darren talks about going to a bear festival, letting a fellow MLG’er down, Birthday stuff and Nintendo Switch stuff. Also, Terry talks about his Birthday stuff,</itunes:subtitle>
 		<itunes:summary>Welcome to episode 53 of the CheckPointDone! Podcast. In this episode, Darren talks about going to a bear festival, letting a fellow MLG’er down, Birthday stuff and Nintendo Switch stuff. Also, Terry talks about his Birthday stuff, Huddersfield Haunting and</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:33:01</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">7031</post-id>		</item>
@@ -1440,7 +1440,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone052.mp3" length="80546116" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 52 of the CheckPointDone! Podcast. In this episode, Darren talks about the Goose Fair, riding public transport, more Five Guys, meeting up with fellow podcast folks, and a well deserved apology. Meanwhile, Terry talks about dropping his</itunes:subtitle>
 		<itunes:summary>Welcome to episode 52 of the CheckPointDone! Podcast. In this episode, Darren talks about the Goose Fair, riding public transport, more Five Guys, meeting up with fellow podcast folks, and a well deserved apology. Meanwhile, Terry talks about dropping his</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:23:37</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6997</post-id>		</item>
@@ -1466,7 +1466,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone051.mp3" length="73590021" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 51 of the CheckPointDone! Podcast. In this episode, we talk about the EGX weekend, Darren talks about his shiny iPhone 8 and AppleTV 4k, damaging himself as well as the Tough Mudder recruitment drive. Meanwhile, Terry talks about</itunes:subtitle>
 		<itunes:summary>Welcome to episode 51 of the CheckPointDone! Podcast. In this episode, we talk about the EGX weekend, Darren talks about his shiny iPhone 8 and AppleTV 4k, damaging himself as well as the Tough Mudder recruitment drive. Meanwhile, Terry talks about</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:16:22</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6983</post-id>		</item>
@@ -1492,7 +1492,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone050.mp3" length="79741963" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 50 of the CheckPointDone! Podcast. In this episode, Darren talks about his PlayStations VR experience and exercise. Meanwhile, Terry talks about exercising in ‘Stuff we’ve done’. In ‘Facepalm’ Darren discusses his PSVR woes.</itunes:subtitle>
 		<itunes:summary>Welcome to episode 50 of the CheckPointDone! Podcast. In this episode, Darren talks about his PlayStations VR experience and exercise. Meanwhile, Terry talks about exercising in ‘Stuff we’ve done’. In ‘Facepalm’ Darren discusses his PSVR woes. We talk spoiler free about games</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:22:46</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6980</post-id>		</item>
@@ -1519,7 +1519,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone049.mp3" length="103780049" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 49 of the CheckPointDone! Podcast. In this episode, Darren talks about being ‘the norm’ as well as preordering shiny new tech. Meanwhile, Terry talks about being in the sun and cooking whilst watching MotoGP in ‘Stuff we’ve done’. In</itunes:subtitle>
 		<itunes:summary>Welcome to episode 49 of the CheckPointDone! Podcast. In this episode, Darren talks about being ‘the norm’ as well as preordering shiny new tech. Meanwhile, Terry talks about being in the sun and cooking whilst watching MotoGP in ‘Stuff we’ve done’. In</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:47:49</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6977</post-id>		</item>
@@ -1545,7 +1545,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone048.mp3" length="64652800" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 48 of the CheckPointDone! Podcast. In this episode, Darren talks about being a social butterfly and his week off. Meanwhile, Terry talks about clutch issues in ‘Stuff we’ve done’. In ‘Facepalm’ we discuss…nothing(?!</itunes:subtitle>
 		<itunes:summary>Welcome to episode 48 of the CheckPointDone! Podcast. In this episode, Darren talks about being a social butterfly and his week off. Meanwhile, Terry talks about clutch issues in ‘Stuff we’ve done’. In ‘Facepalm’ we discuss…nothing(?!) We talk spoiler free about games including: Assassin’s</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:07:03</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6953</post-id>		</item>
@@ -1571,7 +1571,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone047.mp3" length="75816908" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 47 of the CheckPointDone! Podcast. In this episode, Darren talks about more bathroom stuff, and adventures at Splendor and YNot Festivals. Meanwhile, Terry talks about motorway driving, Manchester MCM Comic Con and an encounter with ...</itunes:subtitle>
 		<itunes:summary>Welcome to episode 47 of the CheckPointDone! Podcast. In this episode, Darren talks about more bathroom stuff, and adventures at Splendor and YNot Festivals. Meanwhile, Terry talks about motorway driving, Manchester MCM Comic Con and an encounter with Solid Snake in ‘Stuff</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:18:41</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6943</post-id>		</item>
@@ -1597,7 +1597,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone046.mp3" length="66661930" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 46 of the CheckPointDone! Podcast. In this episode, Darren talks about bathroom stuff, work stuff, his micro cold and his grape toe (?). Meanwhile, Terry talks about motorway driving and trips out in ‘Stuff we’ve done’.</itunes:subtitle>
 		<itunes:summary>Welcome to episode 46 of the CheckPointDone! Podcast. In this episode, Darren talks about bathroom stuff, work stuff, his micro cold and his grape toe (?). Meanwhile, Terry talks about motorway driving and trips out in ‘Stuff we’ve done’. In ‘Facepalm’ we discuss Darren’s</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:09:09</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6940</post-id>		</item>
@@ -1623,7 +1623,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone045.mp3" length="104443768" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 45 of the CheckPointDone! Podcast. In this episode, Darren talks about bathroom stuff. Meanwhile, Terry talks about Amazon Priming himself in ‘Stuff we’ve done’. In ‘Facepalm’ we discuss people being people… We talk spoiler free abou...</itunes:subtitle>
 		<itunes:summary>Welcome to episode 45 of the CheckPointDone! Podcast. In this episode, Darren talks about bathroom stuff. Meanwhile, Terry talks about Amazon Priming himself in ‘Stuff we’ve done’. In ‘Facepalm’ we discuss people being people… We talk spoiler free about games including: Uncharted 4,</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:48:30</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6937</post-id>		</item>
@@ -1650,7 +1650,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone044.mp3" length="76717610" type="audio/mpeg" />
 		<itunes:subtitle>First off, apologies for the audio issues in this episode! Welcome to episode 44 of the CheckPointDone! Podcast. In this episode, Darren talks about ‘The Norm’, buying new shiny and listening to lots of music. Meanwhile, Terry talks about even more</itunes:subtitle>
 		<itunes:summary>First off, apologies for the audio issues in this episode! Welcome to episode 44 of the CheckPointDone! Podcast. In this episode, Darren talks about ‘The Norm’, buying new shiny and listening to lots of music. Meanwhile, Terry talks about even more</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:19:37</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6927</post-id>		</item>
@@ -1676,7 +1676,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone043.mp3" length="78789434" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 43 of the CheckPointDone! Podcast. In this episode, Darren talks about ‘The Norm’ as well as his doped up cat. Meanwhile, Terry talks about his new job and going out drinking in ‘Stuff we’ve done’. In ‘Facepalm’ we discuss the Far</itunes:subtitle>
 		<itunes:summary>Welcome to episode 43 of the CheckPointDone! Podcast. In this episode, Darren talks about ‘The Norm’ as well as his doped up cat. Meanwhile, Terry talks about his new job and going out drinking in ‘Stuff we’ve done’. In ‘Facepalm’ we discuss the Far</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:21:47</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6923</post-id>		</item>
@@ -1702,7 +1702,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone042.mp3" length="83221055" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 42 of the CheckPointDone! Podcast. In this episode, Darren talks about ‘The Norm’ as well as Tough Mudder and Blu Ray purchases. Meanwhile, Terry talks about his interviews and bus related stuff (?) in ‘Stuff we’ve done’.</itunes:subtitle>
 		<itunes:summary>Welcome to episode 42 of the CheckPointDone! Podcast. In this episode, Darren talks about ‘The Norm’ as well as Tough Mudder and Blu Ray purchases. Meanwhile, Terry talks about his interviews and bus related stuff (?) in ‘Stuff we’ve done’. We introduce a new</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:26:24</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6919</post-id>		</item>
@@ -1727,7 +1727,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone041.mp3" length="76088581" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 41 of the CheckPointDone! Podcast. In this episode, Darren talks about ‘The Norm’. Meanwhile, Terry talks about trips to Leeds and missing Free Comic Book Day in ‘Stuff we’ve done’. We talk spoiler free about games including: Gears o...</itunes:subtitle>
 		<itunes:summary>Welcome to episode 41 of the CheckPointDone! Podcast. In this episode, Darren talks about ‘The Norm’. Meanwhile, Terry talks about trips to Leeds and missing Free Comic Book Day in ‘Stuff we’ve done’. We talk spoiler free about games including: Gears of War</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:18:58</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6912</post-id>		</item>
@@ -1752,7 +1752,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone040.mp3" length="66106044" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 40 of the CheckPointDone! Podcast. In this episode, Darren talks about his Bank Holiday weekend and editing podcasts. Meanwhile, Terry talks about buying car related stuff in ‘Stuff we’ve done’.</itunes:subtitle>
 		<itunes:summary>Welcome to episode 40 of the CheckPointDone! Podcast. In this episode, Darren talks about his Bank Holiday weekend and editing podcasts. Meanwhile, Terry talks about buying car related stuff in ‘Stuff we’ve done’. We talk spoiler free about games including: Horizon Zero</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:08:34</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6908</post-id>		</item>
@@ -1777,7 +1777,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone039.mp3" length="63825659" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 39 of the CheckPointDone! Podcast. In this episode, Darren talks about getting fit, bathroom stuff, garden related things, the Scuttercast, Dolby Atmos and his “phat pipe” Meanwhile, Terry talks about his experience in ‘The Crystal M...</itunes:subtitle>
 		<itunes:summary>Welcome to episode 39 of the CheckPointDone! Podcast. In this episode, Darren talks about getting fit, bathroom stuff, garden related things, the Scuttercast, Dolby Atmos and his “phat pipe” Meanwhile, Terry talks about his experience in ‘The Crystal Maze’ in ‘Stuff we’ve</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:06:12</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6903</post-id>		</item>
@@ -1802,7 +1802,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone038.mp3" length="67824692" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 38 of the CheckPointDone! Podcast. In this episode, Darren talks about his operation, planning his luxurious bathroom and work. Also, Terry talks about being an adult, eye tests and doing more driving related things in ‘Stuff we’ve d...</itunes:subtitle>
 		<itunes:summary>Welcome to episode 38 of the CheckPointDone! Podcast. In this episode, Darren talks about his operation, planning his luxurious bathroom and work. Also, Terry talks about being an adult, eye tests and doing more driving related things in ‘Stuff we’ve done’. We talk</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:10:22</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6900</post-id>		</item>
@@ -1827,7 +1827,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone037.mp3" length="78660702" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 37 of the CheckPointDone! Podcast. In this episode, Darren talks about his adventures at Costco, upgrading the man cave whilst suffering from yet another cold! Also, Terry talks about passing his driving test (!!</itunes:subtitle>
 		<itunes:summary>Welcome to episode 37 of the CheckPointDone! Podcast. In this episode, Darren talks about his adventures at Costco, upgrading the man cave whilst suffering from yet another cold! Also, Terry talks about passing his driving test (!!) and doing driving related</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:21:39</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6897</post-id>		</item>
@@ -1853,7 +1853,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone036.mp3" length="85394860" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 36 of the CheckPointDone! Podcast. In this episode, Darren talks about being very busy at work, strict training, his experience with private health care and his new. Also, Terry talks about something called socialising? Also, we talk</itunes:subtitle>
 		<itunes:summary>Welcome to episode 36 of the CheckPointDone! Podcast. In this episode, Darren talks about being very busy at work, strict training, his experience with private health care and his new. Also, Terry talks about something called socialising? Also, we talk</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:28:40</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6893</post-id>		</item>
@@ -1878,7 +1878,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone035.mp3" length="104692036" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 35 of the CheckPointDone! Podcast. In this episode, Darren talks about recovering from man flu, surviving a random encounter with a nail, eBay and vinyl. Also, Terry talks about his 3 day weekend in ‘Stuff we’ve done’. We</itunes:subtitle>
 		<itunes:summary>Welcome to episode 35 of the CheckPointDone! Podcast. In this episode, Darren talks about recovering from man flu, surviving a random encounter with a nail, eBay and vinyl. Also, Terry talks about his 3 day weekend in ‘Stuff we’ve done’. We</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:48:46</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6890</post-id>		</item>
@@ -1903,7 +1903,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone034.mp3" length="51241744" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 34 of the CheckPointDone! Podcast. In this episode, Darren talks about having manflu…again! Doing stuff around the house and his nice, shiny camera lens. Also, Terry talks about his 3rd driving test in ‘Stuff we’ve done’. We talk</itunes:subtitle>
 		<itunes:summary>Welcome to episode 34 of the CheckPointDone! Podcast. In this episode, Darren talks about having manflu…again! Doing stuff around the house and his nice, shiny camera lens. Also, Terry talks about his 3rd driving test in ‘Stuff we’ve done’. We talk</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>53:05</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6887</post-id>		</item>
@@ -1928,7 +1928,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone033.mp3" length="94923076" type="audio/mpeg" />
 		<itunes:subtitle>Welcome to episode 33 of the CheckPointDone! Podcast. In this episode, Darren talks about having manflu, the death of D5120.com and recording the podcast from hell! Also, Terry talks about his driving test being cancelled and getting excited over rathe...</itunes:subtitle>
 		<itunes:summary>Welcome to episode 33 of the CheckPointDone! Podcast. In this episode, Darren talks about having manflu, the death of D5120.com and recording the podcast from hell! Also, Terry talks about his driving test being cancelled and getting excited over rather mundane</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:38:35</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">6877</post-id>		</item>
@@ -1954,7 +1954,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone032.mp3" length="53372918" type="audio/mpeg" />
 		<itunes:subtitle>Happy 2017 everybody! In this episode, Darren talks about drinking lots, being sociable, playing with his camera and fancy telescope. Also, Terry talks about Christmas related things in ‘Stuff we’ve done’. We talk spoiler free about a whole load of gam...</itunes:subtitle>
 		<itunes:summary>Happy 2017 everybody! In this episode, Darren talks about drinking lots, being sociable, playing with his camera and fancy telescope. Also, Terry talks about Christmas related things in ‘Stuff we’ve done’. We talk spoiler free about a whole load of games including: Assassins</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>55:18</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">615</post-id>		</item>
@@ -1980,7 +1980,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone031.mp3" length="113968222" type="audio/mpeg" />
 		<itunes:subtitle>MERRY CHRISTMAS EVERYONE! In this episode, Darren talks about Christmas dos, home automation, podcast editing, his third midlife crisis purchase. Also, Terry talks Christmas stuff in ‘Stuff we’ve done’. We talk spoiler free about a whole load of games ...</itunes:subtitle>
 		<itunes:summary>MERRY CHRISTMAS EVERYONE! In this episode, Darren talks about Christmas dos, home automation, podcast editing, his third midlife crisis purchase. Also, Terry talks Christmas stuff in ‘Stuff we’ve done’. We talk spoiler free about a whole load of games including: Microsoft Solitaire</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:58:26</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">603</post-id>		</item>
@@ -2006,7 +2006,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone030.mp3" length="68691122" type="audio/mpeg" />
 		<itunes:subtitle>In this episode, Darren talks about fighting off a cold, his green screen work, recording with the ScutterCast crew, works Christmas do, work woes, home automation, Google Cardboard and his excitement for a new supermarket! Also, Terry talks about his</itunes:subtitle>
 		<itunes:summary>In this episode, Darren talks about fighting off a cold, his green screen work, recording with the ScutterCast crew, works Christmas do, work woes, home automation, Google Cardboard and his excitement for a new supermarket! Also, Terry talks about his</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:11:16</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">600</post-id>		</item>
@@ -2031,7 +2031,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone029.mp3" length="74992692" type="audio/mpeg" />
 		<itunes:subtitle>In this episode, Darren talks about changing up his office space, buying more consoles and doing some green screen work. Also, Terry talks about doing manly things with a drill in ‘Stuff we’ve done’. We talk spoiler free about a whole load</itunes:subtitle>
 		<itunes:summary>In this episode, Darren talks about changing up his office space, buying more consoles and doing some green screen work. Also, Terry talks about doing manly things with a drill in ‘Stuff we’ve done’. We talk spoiler free about a whole load</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:17:50</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">591</post-id>		</item>
@@ -2057,7 +2057,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone028.mp3" length="107127902" type="audio/mpeg" />
 		<itunes:subtitle>In this episode, Darren talks about his lazy week off, his PS4 Pro woes, and his new bread maker? Also, Terry talks about his amazing belated birthday present in ‘Stuff we’ve done’. We talk spoiler free about a whole load of</itunes:subtitle>
 		<itunes:summary>In this episode, Darren talks about his lazy week off, his PS4 Pro woes, and his new bread maker? Also, Terry talks about his amazing belated birthday present in ‘Stuff we’ve done’. We talk spoiler free about a whole load of</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:51:18</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">581</post-id>		</item>
@@ -2082,7 +2082,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone027.mp3" length="78164167" type="audio/mpeg" />
 		<itunes:subtitle>In this episode, we celebrate our one year and one week anniversary! Also, Darren discusses his lazy birthday weekend, eBay stuff and the fabled ‘Glasses Saga’. Terry talks about turning 30 in ‘Stuff we’ve done’. We talk spoiler free about a</itunes:subtitle>
 		<itunes:summary>In this episode, we celebrate our one year and one week anniversary! Also, Darren discusses his lazy birthday weekend, eBay stuff and the fabled ‘Glasses Saga’. Terry talks about turning 30 in ‘Stuff we’ve done’. We talk spoiler free about a</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:21:08</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">575</post-id>		</item>
@@ -2107,7 +2107,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone026.mp3" length="80312895" type="audio/mpeg" />
 		<itunes:subtitle>In this episode, Darren discusses his Mudrun experience, getting sick, eBay woes, and his shiny Apple Watch 2 as Terry talks about the Play Expo in ‘Stuff we’ve done’. We talk spoiler free about a whole load of games including: Assassins Creed</itunes:subtitle>
 		<itunes:summary>In this episode, Darren discusses his Mudrun experience, getting sick, eBay woes, and his shiny Apple Watch 2 as Terry talks about the Play Expo in ‘Stuff we’ve done’. We talk spoiler free about a whole load of games including: Assassins Creed</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:23:22</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">571</post-id>		</item>
@@ -2132,7 +2132,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone025.mp3" length="57674554" type="audio/mpeg" />
 		<itunes:subtitle>In this episode, Darren discusses more questionable purchases, and the guys discuss their journey in Brimingham with EGX and trying to hunt down the Ready Player One filming locations in ‘Stuff we’ve done’. We talk spoiler free about a whole load of</itunes:subtitle>
 		<itunes:summary>In this episode, Darren discusses more questionable purchases, and the guys discuss their journey in Brimingham with EGX and trying to hunt down the Ready Player One filming locations in ‘Stuff we’ve done’. We talk spoiler free about a whole load of</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>59:47</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">567</post-id>		</item>
@@ -2157,7 +2157,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone024.mp3" length="71863014" type="audio/mpeg" />
 		<itunes:subtitle>In this episode, Darren discusses his time off from work, getting back into his training, upgrading to super sexy, mega awesome broadband and making questionable purchases, as Terry discusses making some questionable purchases of his own in ‘Stuff we’v...</itunes:subtitle>
 		<itunes:summary>In this episode, Darren discusses his time off from work, getting back into his training, upgrading to super sexy, mega awesome broadband and making questionable purchases, as Terry discusses making some questionable purchases of his own in ‘Stuff we’ve done’. We talk</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:14:34</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">545</post-id>		</item>
@@ -2184,7 +2184,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone023.mp3" length="65212865" type="audio/mpeg" />
 		<itunes:subtitle>In this episode, Darren discusses why he wasn’t able to do Tough Mudder and his adventures at the Sausage &amp; Cider Festival in ‘Stuff we’ve done’. We talk spoiler free about a whole load of games including: Far Cry 4, Ultron, Uncharted, Batman</itunes:subtitle>
 		<itunes:summary>In this episode, Darren discusses why he wasn’t able to do Tough Mudder and his adventures at the Sausage &amp; Cider Festival in ‘Stuff we’ve done’. We talk spoiler free about a whole load of games including: Far Cry 4, Ultron, Uncharted, Batman</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:07:38</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">532</post-id>		</item>
@@ -2215,7 +2215,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone022.mp3" length="83192216" type="audio/mpeg" />
 		<itunes:subtitle>In this episode, we discuss Darren’s evening of culture with Cats, family time and increasing amount of game time. Also, Terry gives the results of his driving test and exercise(?!) in ‘Stuff we’ve done’. We talk spoiler free about a whole</itunes:subtitle>
 		<itunes:summary>In this episode, we discuss Darren’s evening of culture with Cats, family time and increasing amount of game time. Also, Terry gives the results of his driving test and exercise(?!) in ‘Stuff we’ve done’. We talk spoiler free about a whole</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:26:22</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">514</post-id>		</item>
@@ -2240,7 +2240,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone021.mp3" length="78716291" type="audio/mpeg" />
 		<itunes:subtitle>In this episode, we discuss Darren’s home improvements, visit to the Splendour festival and pimping out his man cave. Also, Terry chronicles his journey into GAME (and somehow making it out alive) in ‘Stuff we’ve done’. We talk spoiler free about a</itunes:subtitle>
 		<itunes:summary>In this episode, we discuss Darren’s home improvements, visit to the Splendour festival and pimping out his man cave. Also, Terry chronicles his journey into GAME (and somehow making it out alive) in ‘Stuff we’ve done’. We talk spoiler free about a</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:21:42</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">505</post-id>		</item>
@@ -2266,7 +2266,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone020.mp3" length="75733316" type="audio/mpeg" />
 		<itunes:subtitle>In this episode, we discuss work work and more work, Darren cancelling his PlayStation VR pre-order(?!) and everything going back to normality. Also, Terry discusses real life stuff and exercise in ‘Stuff we’ve done’. We talk spoiler free about a whole</itunes:subtitle>
 		<itunes:summary>In this episode, we discuss work work and more work, Darren cancelling his PlayStation VR pre-order(?!) and everything going back to normality. Also, Terry discusses real life stuff and exercise in ‘Stuff we’ve done’. We talk spoiler free about a whole</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:18:36</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">490</post-id>		</item>
@@ -2291,7 +2291,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone019.mp3" length="63526400" type="audio/mpeg" />
 		<itunes:subtitle>In this episode, we discuss typical British weather, Darren’s new toy, real life adult problems and technology failing him. Also, Terry discusses his delving into the world of online dating in ‘Stuff we’ve done’. We talk spoiler free about a whole</itunes:subtitle>
 		<itunes:summary>In this episode, we discuss typical British weather, Darren’s new toy, real life adult problems and technology failing him. Also, Terry discusses his delving into the world of online dating in ‘Stuff we’ve done’. We talk spoiler free about a whole</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:05:53</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">486</post-id>		</item>
@@ -2316,7 +2316,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone018.mp3" length="85089332" type="audio/mpeg" />
 		<itunes:subtitle>In this episode, we discuss Darren’s HIIT training, work being a bitch and back to the ol’ housework. Also, Terry discusses his week off of laziness over E3 week in ‘Stuff we’ve done’. We talk some E3 business as well as</itunes:subtitle>
 		<itunes:summary>In this episode, we discuss Darren’s HIIT training, work being a bitch and back to the ol’ housework. Also, Terry discusses his week off of laziness over E3 week in ‘Stuff we’ve done’. We talk some E3 business as well as</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:28:21</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">481</post-id>		</item>
@@ -2340,7 +2340,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone017.mp3" length="85033326" type="audio/mpeg" />
 		<itunes:subtitle>In this episode, we discuss Darren’s very lazy week off work, a weekend a away with friends…and Terry. Also, Terry discusses how he got sick and his guest spot on the Digital Diaries podcast in  ‘Stuff we’ve done’. We talk spoiler</itunes:subtitle>
 		<itunes:summary>In this episode, we discuss Darren’s very lazy week off work, a weekend a away with friends…and Terry. Also, Terry discusses how he got sick and his guest spot on the Digital Diaries podcast in  ‘Stuff we’ve done’. We talk spoiler</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:28:17</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">405</post-id>		</item>
@@ -2365,7 +2365,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone016.mp3" length="55163455" type="audio/mpeg" />
 		<itunes:subtitle>  In this episode, we discuss Darren’s RL stuff and his adventures in the world of Tough Mudder, and Terry’s…nothingness in ‘Stuff we’ve done’. We talk spoiler free about Uncharted, Tales from the Borderlands, Saints Row: Gat out of Hell,</itunes:subtitle>
 		<itunes:summary>  In this episode, we discuss Darren’s RL stuff and his adventures in the world of Tough Mudder, and Terry’s…nothingness in ‘Stuff we’ve done’. We talk spoiler free about Uncharted, Tales from the Borderlands, Saints Row: Gat out of Hell,</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>57:10</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">257</post-id>		</item>
@@ -2389,7 +2389,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone015.mp3" length="69944581" type="audio/mpeg" />
 		<itunes:subtitle>In this episode, we discuss Darren’s sicknesses and RL stuff, and Terry’s excitement over passing his theory test in  ‘Stuff we’ve done’. We talk spoiler free about Borderlands 2, Borderlands Pre-Sequel, Tales from Borderlands,</itunes:subtitle>
 		<itunes:summary>In this episode, we discuss Darren’s sicknesses and RL stuff, and Terry’s excitement over passing his theory test in  ‘Stuff we’ve done’. We talk spoiler free about Borderlands 2, Borderlands Pre-Sequel, Tales from Borderlands, Assassins Creed Revelations, Saints Row: Gat out of</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:12:34</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">243</post-id>		</item>
@@ -2413,7 +2413,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone014.mp3" length="74706944" type="audio/mpeg" />
 		<itunes:subtitle>  In this episode, we discuss Darrens new car, and Terrys theory test revision in ‘Stuff we’ve done’. We talk spoiler free about Borderlands 2, Quantum Break, Miitomo, Sunset Overdrive, Mirrors Edge Catalyst Beta,</itunes:subtitle>
 		<itunes:summary>  In this episode, we discuss Darrens new car, and Terrys theory test revision in ‘Stuff we’ve done’. We talk spoiler free about Borderlands 2, Quantum Break, Miitomo, Sunset Overdrive, Mirrors Edge Catalyst Beta, TrackMania Turbo and Fallout Shelter in ‘What we’ve played’.</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:17:32</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">224</post-id>		</item>
@@ -2437,7 +2437,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone013.mp3" length="57890816" type="audio/mpeg" />
 		<itunes:subtitle>  In this episode, we discuss Darren’s new world in ‘Stuff we’ve done’. We talk spoiler free about Borderlands 2, Quantum Break and Good Knights Story in ‘What we’ve played’. We discuss the various films and TV including Weird Science, Daredevil,</itunes:subtitle>
 		<itunes:summary>  In this episode, we discuss Darren’s new world in ‘Stuff we’ve done’. We talk spoiler free about Borderlands 2, Quantum Break and Good Knights Story in ‘What we’ve played’. We discuss the various films and TV including Weird Science, Daredevil, Gotham and</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:00:01</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">218</post-id>		</item>
@@ -2461,7 +2461,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone012.mp3" length="59809792" type="audio/mpeg" />
 		<itunes:subtitle>  In this episode, we discuss the Easter weekend, and what we got up to in ‘Stuff we’ve done’. We talk spoiler free about Borderlands 2, Beyond: Two Souls, Stardew Valley and Assassin’s Creed in ‘What we’ve played’. We discuss the various films</itunes:subtitle>
 		<itunes:summary>  In this episode, we discuss the Easter weekend, and what we got up to in ‘Stuff we’ve done’. We talk spoiler free about Borderlands 2, Beyond: Two Souls, Stardew Valley and Assassin’s Creed in ‘What we’ve played’. We discuss the various films</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:02:01</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">195</post-id>		</item>
@@ -2484,7 +2484,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone011.mp3" length="56842240" type="audio/mpeg" />
 		<itunes:subtitle>In this episode, Darren discussed losing his free time due to car, boiler, house, water, cat related issues, and Terry discusses his best man duties in ‘Stuff we’ve done’. We talk spoiler free about Borderlands 2, Beyond: Two Souls, Heavy Rain</itunes:subtitle>
 		<itunes:summary>In this episode, Darren discussed losing his free time due to car, boiler, house, water, cat related issues, and Terry discusses his best man duties in ‘Stuff we’ve done’. We talk spoiler free about Borderlands 2, Beyond: Two Souls, Heavy Rain</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>58:55</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">192</post-id>		</item>
@@ -2508,7 +2508,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone010.mp3" length="66439168" type="audio/mpeg" />
 		<itunes:subtitle>  In this episode, Darren discussed losing his free time due to car related issues, and Terry discusses his future career plans in ‘Stuff we’ve done’. We talk spoiler free about Borderlands 2, Until Dawn, Tales from Borderlands, Bioshock 2, Pokémon,</itunes:subtitle>
 		<itunes:summary>  In this episode, Darren discussed losing his free time due to car related issues, and Terry discusses his future career plans in ‘Stuff we’ve done’. We talk spoiler free about Borderlands 2, Until Dawn, Tales from Borderlands, Bioshock 2, Pokémon,</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:08:55</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">186</post-id>		</item>
@@ -2536,7 +2536,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone009.mp3" length="69900288" type="audio/mpeg" />
 		<itunes:subtitle>  In this episode, Darren discussed finally having a week off to relax and game, and Terry talks about the stag do he organised in ‘Stuff we’ve done’ We talk spoiler free about Borderlands 2, Star Wars Battlefront, Arkham Knight, Helldivers, Firewatch,</itunes:subtitle>
 		<itunes:summary>  In this episode, Darren discussed finally having a week off to relax and game, and Terry talks about the stag do he organised in ‘Stuff we’ve done’ We talk spoiler free about Borderlands 2, Star Wars Battlefront, Arkham Knight, Helldivers, Firewatch,</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:12:31</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">155</post-id>		</item>
@@ -2564,7 +2564,7 @@ Finally, we discuss the audiobooks/podcasts we&#8217;ve been listening and comic
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone008.mp3" length="73390080" type="audio/mpeg" />
 		<itunes:subtitle>  In this episode, Darren discussed another week without his man cave in ‘Stuff we’ve done’ We talk spoiler free about Borderlands 2, Star Wars Battlefront, Elder Scrolls Online, The Division, Arkham Knight, Hardware Rivals, Rise of the Tomb Raider, The</itunes:subtitle>
 		<itunes:summary>  In this episode, Darren discussed another week without his man cave in ‘Stuff we’ve done’ We talk spoiler free about Borderlands 2, Star Wars Battlefront, Elder Scrolls Online, The Division, Arkham Knight, Hardware Rivals, Rise of the Tomb Raider, The</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:16:09</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">93</post-id>		</item>
@@ -2595,7 +2595,7 @@ Finally, we discuss the audiobooks/podcasts we&#8217;ve been listening and comic
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone007.mp3" length="63180800" type="audio/mpeg" />
 		<itunes:subtitle>  In this episode, Darren discussed a week without his man cave, and Terry talks about his ever growning vinyl collection in ‘Stuff we’ve done’ We talk spoiler free about Borderlands 2, WRC15, Punch Club and Just Cause 3 in ‘What we’ve</itunes:subtitle>
 		<itunes:summary>  In this episode, Darren discussed a week without his man cave, and Terry talks about his ever growning vinyl collection in ‘Stuff we’ve done’ We talk spoiler free about Borderlands 2, WRC15, Punch Club and Just Cause 3 in ‘What we’ve</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:05:31</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">81</post-id>		</item>
@@ -2627,7 +2627,7 @@ Finally, we discuss the audiobooks we&#8217;ve been listening and comics we&#821
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone006.mp3" length="76103680" type="audio/mpeg" />
 		<itunes:subtitle>  First of all a Happy New Year to you all! In this episode, Darren and Terry discuss their festive period in ‘Stuff we’ve done’ We talk spoiler free about the games we’ve all been playing, including Fallout 4, Borderlands 2, Guitar</itunes:subtitle>
 		<itunes:summary>  First of all a Happy New Year to you all! In this episode, Darren and Terry discuss their festive period in ‘Stuff we’ve done’ We talk spoiler free about the games we’ve all been playing, including Fallout 4, Borderlands 2, Guitar</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:18:59</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">77</post-id>		</item>
@@ -2656,7 +2656,7 @@ Finally, we discuss the audiobooks we&#8217;ve been listening to in &#8216;What 
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone005.mp3" length="57759744" type="audio/mpeg" />
 		<itunes:subtitle>  With this special episode we reunite the original Year of Shame Year 1 team with guest hosts Jayce Stokes and Simon Stevens. Darren talks about his excessive amount of Christmas Dos, in ‘Stuff we’ve done’ We talk spoiler free</itunes:subtitle>
 		<itunes:summary>  With this special episode we reunite the original Year of Shame Year 1 team with guest hosts Jayce Stokes and Simon Stevens. Darren talks about his excessive amount of Christmas Dos, in ‘Stuff we’ve done’ We talk spoiler free</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>59:53</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">71</post-id>		</item>
@@ -2688,7 +2688,7 @@ Finally, Darren gives his thoughts on the comic &#8216;The Names&#8217; in &#821
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone004.mp3" length="58744832" type="audio/mpeg" />
 		<itunes:subtitle>  Darren has a little rant about Black Friday, and slimy sales people, in ‘Stuff we’ve done’ We talk spoiler free about Fallout 4, Call of Duty: Black Ops 3, and The Room 3 in ‘What we’ve played’ We discuss the</itunes:subtitle>
 		<itunes:summary>  Darren has a little rant about Black Friday, and slimy sales people, in ‘Stuff we’ve done’ We talk spoiler free about Fallout 4, Call of Duty: Black Ops 3, and The Room 3 in ‘What we’ve played’ We discuss the</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>1:00:54</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">66</post-id>		</item>
@@ -2733,7 +2733,7 @@ Finally, we discuss Tokyo Ghosts, Survivors Club, Axcend, and Darren gives his t
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone003.mp3" length="55005184" type="audio/mpeg" />
 		<itunes:subtitle>  In this episode we mix the up the formula a little. Darren discusses his new tech gym, and Terry discusses his trip to Monday Night Raw in the ‘Stuff we’ve done’ We talk spoiler free about Need For Speed,</itunes:subtitle>
 		<itunes:summary>  In this episode we mix the up the formula a little. Darren discusses his new tech gym, and Terry discusses his trip to Monday Night Raw in the ‘Stuff we’ve done’ We talk spoiler free about Need For Speed,</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>57:01</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">60</post-id>		</item>
@@ -2764,7 +2764,7 @@ Finally, we discuss Tokyo Ghosts, Survivors Club, Axcend, and Darren gives his t
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone002.mp3" length="49758208" type="audio/mpeg" />
 		<itunes:subtitle>In this episode we discuss Mad Max, Halo 5, Need For Speed, Homeworld: Remastered, Transformers Devastation, WWE2K16, Uncharted Nathan Drakes Collection, Rock Band 4, Sega Mega Drive, Back to the Future 2, Terminator Genesis, San Andreas, Spectre,</itunes:subtitle>
 		<itunes:summary>In this episode we discuss Mad Max, Halo 5, Need For Speed, Homeworld: Remastered, Transformers Devastation, WWE2K16, Uncharted Nathan Drakes Collection, Rock Band 4, Sega Mega Drive, Back to the Future 2, Terminator Genesis, San Andreas, Spectre, The Walking Dead,</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>51:33</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">40</post-id>		</item>
@@ -2785,7 +2785,7 @@ Finally, we discuss Tokyo Ghosts, Survivors Club, Axcend, and Darren gives his t
 		<enclosure url="http://archive.org/download/checkpointdone/checkpointdone001.mp3" length="51056640" type="audio/mpeg" />
 		<itunes:subtitle>  In this episode we discuss Mad Max, Metal Gear Solid 5: The Phantom Pain, EGX Experiences, The Signal, Tomorrowland, Poltergeist, Chicago PD, Chicago Fire, Blue Blood, Impractical Jokers, Dust Till Dawn, Batman Earth One, Ready Player One and Armada.</itunes:subtitle>
 		<itunes:summary>  In this episode we discuss Mad Max, Metal Gear Solid 5: The Phantom Pain, EGX Experiences, The Signal, Tomorrowland, Poltergeist, Chicago PD, Chicago Fire, Blue Blood, Impractical Jokers, Dust Till Dawn, Batman Earth One, Ready Player One and Armada.</itunes:summary>
-		<itunes:author>CheckPointDone!</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:duration>52:54</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">22</post-id>		</item>

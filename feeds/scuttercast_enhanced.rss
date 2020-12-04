@@ -16,7 +16,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 <channel>
 	<title>ScutterCast Enhanced Edition</title>
 	<atom:link href="http://feeds.feedburner.com/ScuttercastEnhancedEdition" rel="self" type="application/rss+xml" />
-	<link>http://www.reddwarfforum.com</link>
+	<link>https://www.facebook.com/groups/scuttercast</link>
 	<description>An enhanced podcast, reviewing past and present episodes of Red Dwarf, with some speculation of future episodes. Also we discuss current Red Dwarf news and rumour in the GrooveTown section, and finish off with a general chit chat in the Parrots Bar</description>
 	<lastBuildDate>Tue, 19 Feb 2019 14:56:56 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -26,19 +26,19 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 <!-- podcast_generator="Blubrry PowerPress/8.4.3" mode="advanced" feedslug="enhanced" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
 	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 	<itunes:summary>The Unofficial Red Dwarf Forum</itunes:summary>
-	<itunes:author>Red Dwarf Forum</itunes:author>
+	<itunes:author>Fictionshed</itunes:author>
 	<itunes:image href="http://raw.githubusercontent.com/D5120/Fictionshed/master/images/scuttercast_2012.png" />
 	<itunes:owner>
-		<itunes:name>Red Dwarf Forum</itunes:name>
+		<itunes:name>Fictionshed</itunes:name>
 		<itunes:email>scuttercast@gmail.com</itunes:email>
 	</itunes:owner>
-	<managingEditor>scuttercast@gmail.com (Red Dwarf Forum)</managingEditor>
-	<copyright>Red Dwarf Forum</copyright>
+	<managingEditor>scuttercast@gmail.com (Fictionshed)</managingEditor>
+	<copyright>Fictionshed</copyright>
 	<itunes:subtitle>The Unofficial Red Dwarf Forum</itunes:subtitle>
 	<image>
 		<title>ScutterCast Enhanced Edition</title>
 		<url>http://raw.githubusercontent.com/D5120/Fictionshed/master/images/scuttercast_2012.png</url>
-		<link>http://www.reddwarfforum.com</link>
+		<link>https://www.facebook.com/groups/scuttercast</link>
 	</image>
 	<itunes:category text="TV &amp; Film" />
 	<googleplay:category text="TV &amp; Film"/>
@@ -81,7 +81,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Ian&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:08:15</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">3955</post-id>		</item>
 	<item>
@@ -121,7 +121,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Ian&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:00:16</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">3953</post-id>		</item>
 	<item>
@@ -161,7 +161,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Ian&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:10:54</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">3950</post-id>		</item>
 	<item>
@@ -201,7 +201,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Ian&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>58:03</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">3948</post-id>		</item>
 	<item>
@@ -241,7 +241,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Ian&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>52:27</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">3946</post-id>		</item>
 	<item>
@@ -281,7 +281,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Ian&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:26:33</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">3942</post-id>		</item>
 	<item>
@@ -329,7 +329,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Ian&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:55:55</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">3741</post-id>		</item>
 	<item>
@@ -378,7 +378,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Ian&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:24:07</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">3737</post-id>		</item>
 	<item>
@@ -424,7 +424,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Ian&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:37:06</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">3729</post-id>		</item>
 	<item>
@@ -472,7 +472,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Ian&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:43:14</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">3722</post-id>		</item>
 	<item>
@@ -520,7 +520,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Ian&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:44:08</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">3716</post-id>		</item>
 	<item>
@@ -570,7 +570,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Ian&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>2:06:34</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">3704</post-id>		</item>
 	<item>
@@ -616,7 +616,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Ian&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>2:12:12</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">3671</post-id>		</item>
 	<item>
@@ -664,7 +664,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Ian&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:58:10</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">3444</post-id>		</item>
 	<item>
@@ -712,7 +712,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren &amp; Antony&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:13:29</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2288</post-id>		</item>
 	<item>
@@ -761,7 +761,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:06:00</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2284</post-id>		</item>
 	<item>
@@ -792,7 +792,7 @@ a Fictionshed.com Production…</itunes:summary>
 Fi (Eccentricast and EccentriWHO host) attended this years Dimension Jump and was good enough to send us a 15 minute sound clip of her reactions from the event.&lt;br /&gt;
 We thought it only fair to share this with you.&lt;br /&gt;
 Enjoy…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>16:19</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2276</post-id>		</item>
 	<item>
@@ -840,7 +840,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:01:37</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2269</post-id>		</item>
 	<item>
@@ -886,7 +886,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:10:09</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2203</post-id>		</item>
 	<item>
@@ -932,7 +932,7 @@ Or find us on Facebook&lt;br /&gt;
 Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Andy a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:06:54</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2110</post-id>		</item>
 	<item>
@@ -980,7 +980,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:05:52</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2111</post-id>		</item>
 	<item>
@@ -1030,7 +1030,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Andy &amp; Antony&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>57:22</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2112</post-id>		</item>
 	<item>
@@ -1077,7 +1077,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren &amp; Antony&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>56:05</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2113</post-id>		</item>
 	<item>
@@ -1126,7 +1126,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>51:39</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2114</post-id>		</item>
 	<item>
@@ -1175,7 +1175,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:04:06</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2115</post-id>		</item>
 	<item>
@@ -1224,7 +1224,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:01:40</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2116</post-id>		</item>
 	<item>
@@ -1270,7 +1270,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:07:21</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2117</post-id>		</item>
 	<item>
@@ -1317,7 +1317,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:09:20</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2118</post-id>		</item>
 	<item>
@@ -1365,7 +1365,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren &amp; Antony&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>59:55</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2119</post-id>		</item>
 	<item>
@@ -1412,7 +1412,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>56:06</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2120</post-id>		</item>
 	<item>
@@ -1458,7 +1458,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>50:44</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2121</post-id>		</item>
 	<item>
@@ -1505,7 +1505,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:08:05</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2122</post-id>		</item>
 	<item>
@@ -1553,7 +1553,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:07:33</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2123</post-id>		</item>
 	<item>
@@ -1601,7 +1601,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren &amp; Antony&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:20:28</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2124</post-id>		</item>
 	<item>
@@ -1648,7 +1648,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:03:01</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2125</post-id>		</item>
 	<item>
@@ -1694,7 +1694,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren &amp; Antony&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>52:22</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2127</post-id>		</item>
 	<item>
@@ -1741,7 +1741,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren &amp; Antony&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:20:34</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2128</post-id>		</item>
 	<item>
@@ -1793,7 +1793,7 @@ Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony &amp; Andy&lt;br /&gt;
 a Fictionshed.com Production&lt;br /&gt;
 …now time for a well earned break, see you on the 8th of July !…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>57:13</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2130</post-id>		</item>
 	<item>
@@ -1840,7 +1840,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Andy &amp; Antony&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>57:52</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2131</post-id>		</item>
 	<item>
@@ -1887,7 +1887,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Andy &amp; Antony&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:09:40</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2132</post-id>		</item>
 	<item>
@@ -1935,7 +1935,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren &amp; Antony&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:05:53</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2133</post-id>		</item>
 	<item>
@@ -1979,7 +1979,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony and Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:11:42</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2134</post-id>		</item>
 	<item>
@@ -2023,7 +2023,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Andy &amp; Antony&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:04:16</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2135</post-id>		</item>
 	<item>
@@ -2068,7 +2068,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Andy &amp; Antony&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:13:28</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2136</post-id>		</item>
 	<item>
@@ -2114,7 +2114,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren &amp; Antony&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:12:40</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2137</post-id>		</item>
 	<item>
@@ -2159,7 +2159,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Andy &amp; Antony&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:10:56</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2138</post-id>		</item>
 	<item>
@@ -2205,7 +2205,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Ian &amp; Antony&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 <post-id xmlns="com-wordpress:feed-additions:1">2139</post-id>		</item>
 	<item>
 		<title>ScutterCast &#124; Episode 23 &#124; Dimension Jump</title>
@@ -2250,7 +2250,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Nik &amp; Antony&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:14:06</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2140</post-id>		</item>
 	<item>
@@ -2302,7 +2302,7 @@ Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Andy &amp; Antony&lt;br /&gt;
 Merry Christmas, and a Happy New Year to you all !!&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>54:31</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2141</post-id>		</item>
 	<item>
@@ -2348,7 +2348,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren &amp; Antony&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:03:16</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2142</post-id>		</item>
 	<item>
@@ -2394,7 +2394,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony, Nik and Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:07:44</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2143</post-id>		</item>
 	<item>
@@ -2451,7 +2451,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony, Andy and Nik&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:03:32</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2144</post-id>		</item>
 	<item>
@@ -2498,7 +2498,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony, Nik and Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>58:26</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2145</post-id>		</item>
 	<item>
@@ -2543,7 +2543,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony and Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:04:34</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2146</post-id>		</item>
 	<item>
@@ -2588,7 +2588,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony and Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 <post-id xmlns="com-wordpress:feed-additions:1">2147</post-id>		</item>
 	<item>
 		<title>ScutterCast &#124; Episode 15 &#124; Polymorph</title>
@@ -2633,7 +2633,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony, Nik and Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:09:26</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2149</post-id>		</item>
 	<item>
@@ -2679,7 +2679,7 @@ Show notes can be found within the forum&lt;br /&gt;
 Any questions, please feel free to check the FAQ section first&lt;br /&gt;
 This weeks hosts are Darren, Antony and Andy&lt;br /&gt;
 a Fictionshed.com Production…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>53:32</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2150</post-id>		</item>
 	<item>
@@ -2722,7 +2722,7 @@ You can also find the team over at the Red Dwarf Forum, or follow us on Twitter&
 Shownotes can be found over on the forum&lt;br /&gt;
 Any questions, please check the FAQ’s first.&lt;br /&gt;
 This weeks episode is hosted by Darren, Nik and Antony…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:03:37</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2151</post-id>		</item>
 	<item>
@@ -2767,7 +2767,7 @@ You can also find the team over at the Red Dwarf Forum, or follow us on Twitter&
 Shownotes can be found over on the forum&lt;br /&gt;
 Any questions, please check the FAQ’s first.&lt;br /&gt;
 This weeks episode is hosted by Darren, Andy and Nik…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:02:22</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2152</post-id>		</item>
 	<item>
@@ -2813,7 +2813,7 @@ You can also find the team over at the Red Dwarf Forum, or follow us on Twitter&
 Shownotes can be found over on the forum&lt;br /&gt;
 Any questions, please check the FAQ’s first.&lt;br /&gt;
 This weeks episode is hosted by Darren, and Antony…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:04:51</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2153</post-id>		</item>
 	<item>
@@ -2857,7 +2857,7 @@ You can also find the team over at the Red Dwarf Forum, or follow us on Twitter&
 Shownotes can be found over on the forum&lt;br /&gt;
 Any questions, please check the FAQ’s first.&lt;br /&gt;
 This weeks episode is hosted by Darren, Antony, Ian and Nik…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:05:02</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2154</post-id>		</item>
 	<item>
@@ -2906,7 +2906,7 @@ You can also find the team over at the Red Dwarf Forum, or follow us on Twitter&
 Shownotes can be found over on the forum&lt;br /&gt;
 Any questions, please check the FAQ’s first.&lt;br /&gt;
 This weeks episode is hosted by Darren, and Antony…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>57:49</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2156</post-id>		</item>
 	<item>
@@ -2953,7 +2953,7 @@ You can also find the team over at the Red Dwarf Forum, or follow us on Twitter&
 Shownotes can be found over on the forum&lt;br /&gt;
 Any questions, please check the FAQ’s first.&lt;br /&gt;
 This weeks episode is hosted by Darren, Ian, and Antony…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:09:15</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2157</post-id>		</item>
 	<item>
@@ -2997,7 +2997,7 @@ If you’d like to send us any audio comments, or emails please send them to scu
 Shownotes can be found over on the forum&lt;br /&gt;
 Any questions, please check the FAQ’s first.&lt;br /&gt;
 This weeks episode is hosted by Darren, Ian, Nik, and Antony…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:04:04</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2158</post-id>		</item>
 	<item>
@@ -3051,7 +3051,7 @@ This episode is hosted by Darren, Nik, Antony and Andy&lt;br /&gt;
 This is the last one of series 1, we are talking a short series break, and will be back with you in a couple of weeks with the episode Kryten&lt;br /&gt;
 Any queries about the ScutterCast, please feel free to read the FAQ’s&lt;br /&gt;
 edit: We’ve been made aware, that the Novo Babylonia advert is missing, as this is only 20 seconds long, we’ve going to leave it as is, apologies for the inconvenience…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>56:10</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2159</post-id>		</item>
 	<item>
@@ -3094,7 +3094,7 @@ This episode we review the episode “Confidence and Paranoia”, we also discus
 If you would like to email in any comments on the episodes, please email to scuttercast@gmail.com&lt;br /&gt;
 This episode is hosted by Darren, Nik and Antony&lt;br /&gt;
 Any queries about the ScutterCast, please feel free to read the FAQ’s…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>59:16</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2160</post-id>		</item>
 	<item>
@@ -3141,7 +3141,7 @@ If you would like to email in any comments on the episodes, please email to scut
 This episode is hosted by Darren, Ian, Andrew and Antony&lt;br /&gt;
 Any queries about the ScutterCast, please feel free to read the FAQ’s&lt;br /&gt;
 Apologies for the slight echo, there were a few “issues”…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 <post-id xmlns="com-wordpress:feed-additions:1">2161</post-id>		</item>
 	<item>
 		<title>ScutterCast &#124; Back To Earth Special</title>
@@ -3185,7 +3185,7 @@ This is the enhanced edition, and has the chapter selection, however due to the 
 This week we have the full panel of reviews, Ian, Andy, Nik, Antony and Darren&lt;br /&gt;
 Enjoy, and please feel free to pop into the forum afterwards http://www.reddwarfforum.com&lt;br /&gt;
 Any queries about the ScutterCast, please feel free to read the FAQ’s…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>1:39:47</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2162</post-id>		</item>
 	<item>
@@ -3218,7 +3218,7 @@ Any queries about the ScutterCast, please feel free to read the FAQ’s…</itun
 		<itunes:summary>The third of many ScutterCasts, to bring you reviews of old, and new Red Dwarf episodes. Discussing everything Red Dwarf and Sci-Fi related, not forgetting the main website of http://www.reddwarfforum.com.&lt;br /&gt;
 This episode we review the episode “Balance of Power”, we also discuss the special Easter 3 part episode “Back to Earth”, and just a general chinwag about everything Sci-Fi.&lt;br /&gt;
 This episode is hosted by Darren, Nik, and Ian…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>38:39</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2163</post-id>		</item>
 	<item>
@@ -3252,7 +3252,7 @@ This episode is hosted by Darren, Nik, and Ian…</itunes:summary>
 		<itunes:summary>The second of many ScutterCasts, to bring you reviews of old, and new Red Dwarf episodes. Discussing everything Red Dwarf and Sci-Fi related, not forgetting the main website of www.reddwarfforum.com.&lt;br /&gt;
 This episode we review the episode “Future Echoes”, discussions, of the special Easter 3 part episode “Back to Earth”, and just a general chinwag about everything Sci-Fi.&lt;br /&gt;
 This episode is hosted by Darren, Nik, Antony and Ian…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>30:07</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2164</post-id>		</item>
 	<item>
@@ -3289,7 +3289,7 @@ This episode is hosted by Darren, Nik, Antony and Ian…</itunes:summary>
 		<itunes:summary>The first of many ScutterCasts, to bring you reviews of old, and new Red Dwarf episodes. Discussing everything Red Dwarf and Sci-Fi related, not forgetting the main website of www.reddwarfforum.com.&lt;br /&gt;
 This episode we review the episode “The End”, discussions, of the special Easter 3 part episode “Back to Earth”, and just a general chinwag about everything Sci-Fi.&lt;br /&gt;
 This episode is hosted by BassJunkie, Nicademus, Antirealism and Ori-STUDFARM.…</itunes:summary>
-		<itunes:author>Red Dwarf Forum</itunes:author>
+		<itunes:author>Fictionshed</itunes:author>
 		<itunes:duration>39:27</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">2165</post-id>		</item>
 </channel>
