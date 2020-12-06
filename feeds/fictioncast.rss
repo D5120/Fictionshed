@@ -1,71 +1,32 @@
-<?xml version="1.0"?>
-	<rss version="2.0" xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd">
-	<channel>
-		<title>Fictionshed</title>
-		<link>http://www.Fictionshed.com</link>
-		<description>Fictionshed : Brain Dumping for your Pleasure</description>
-		<language>en-us</language>
-		<lastBuildDate>Sat, 13 Dec 2008 14:39:25 GMT</lastBuildDate>
-		<generator>tdscripts.com Podcast Generator</generator>
-		<copyright>Fictionshed.com</copyright>
-		<managingEditor>podcast@fictionshed.com</managingEditor>
-		<webMaster>podcast@fictionshed.com</webMaster>
-		<owner>Fictionshed.com</owner>
-		<ttl>1</ttl>
-<itunes:new-feed-url>http://fictionshed.podbean.com/category/fictioncast/feed/</itunes:new-feed-url>
-<itunes:keywords>Machinima, ViperPilots, BSG, Guildies, Novo Babylonia, Fan Filma</itunes:keywords>
-<itunes:subtitle>Fictionshed, the podcast. The fictionshed team disussing past, present and future projects.</itunes:subtitle>
 
-		<itunes:summary>Fictionshed, the podcast. The fictionshed team disussing past, present and future projects.</itunes:summary>
-<itunes:author>Fictionshed.com</itunes:author>
-
-<itunes:category text="Games &amp; Hobbies" />
-
-<itunes:category text="Comedy" />
-
-
-		<itunes:owner>
-
-			<itunes:name>Fictionshed.com</itunes:name>
-
-			<itunes:email>podcast@fictionshed.com</itunes:email>
-
-		</itunes:owner>
-
-		<itunes:block>No</itunes:block>
-
-		<itunes:explicit>no</itunes:explicit>
-<itunes:image href="http://www.fictionshed.com/podcast/fs_podcast144.jpg" />
-
-		<image>
-
-			<url>http://www.fictionshed.com/podcast/fs_podcast144.jpg</url>
-
-			<title>Fictionshed</title>
-
-			<link>http://www.fictionshed.com</link>
-
-			<width>144</width>
-
-			<height>144</height>
-
-		</image>
-
-
-
-<item>
-<title>Podcast 01: What's going on...</title>
-<description>The first of hopefully many podcasts, discussing what's going on in the fictionshed world.</description>
-<pubDate>Sat, 13 Dec 2008 14:48:02 GMT</pubDate>
-<enclosure url="http://www.fictionshed.com/podcast/fictioncast1.mp3" length="11976704" type="audio/mpeg"/>
-<itunes:duration>12:28</itunes:duration>
-<itunes:subtitle>Podcast 01: What's going on...</itunes:subtitle>
-<itunes:summary>The first of hopefully many podcasts, discussing what's going on in the fictionshed world.</itunes:summary>
-<itunes:keywords>Machinima, ViperPilots, BSG, Guildies, Novo Babylonia, Fan Films</itunes:keywords>
-<itunes:author>Fictionshed</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<itunes:block>No</itunes:block>
-</item>
-
-		</channel>
-	</rss>
+  <?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>FictionCast</title>
+    <link>ttp://feeds.feedburner.com/fictioncast</link>
+    <language></language>
+    <copyright>Fictionshed</copyright>
+    <itunes:subtitle>Fictioncast, the podcast. The Fictionshed team discussing past, present and future projects.</itunes:subtitle>
+    <itunes:author>Fictionshed</itunes:author>
+    <itunes:summary>Fictioncast, the podcast. The Fictionshed team discussing past, present and future projects.</itunes:summary>  
+    <itunes:owner>
+      <itunes:name>Fictionshed</itunes:name>
+      <itunes:email>podcast@fictionshed.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://raw.githubusercontent.com/D5120/Fictionshed/master/images/fictioncast.png" />
+    <itunes:category text="Games &amp; Hobbies"/>
+    
+      <item>
+        <title>Podcast 01: What&#x27;s going on...</title>
+        <itunes:author>Fictionshed</itunes:author>
+        <itunes:subtitle>Podcast 01: What&#x27;s going on...</itunes:subtitle>
+        <itunes:summary>The first of hopefully many podcasts, discussing what&#x27;s going on in the Fictionshed world.</itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="https://archive.org/download/fictioncast/fictioncast01.mp3" length="11976704" type="audio/mpeg"/>
+        <guid></guid>
+        <pubDate>Sat, 13 Dec 2008 14:48:02 GMT</pubDate>
+        <itunes:duration>12:28</itunes:duration>
+      </item>
+    
+  </channel>
+  </rss>
