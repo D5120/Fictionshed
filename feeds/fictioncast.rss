@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>FictionCast</title>
     <link>http://feeds.feedburner.com/fictioncast</link>
@@ -7,25 +7,37 @@
     <copyright>Fictionshed</copyright>
     <itunes:subtitle>Fictioncast, the podcast. The Fictionshed team discussing past, present and future projects.</itunes:subtitle>
     <itunes:author>Fictionshed</itunes:author>
-    <itunes:summary>Fictioncast, the podcast. The Fictionshed team discussing past, present and future projects.</itunes:summary>  
+    <itunes:summary>Fictioncast, the podcast. The Fictionshed team discussing past, present and future projects.</itunes:summary>
     <itunes:owner>
       <itunes:name>Fictionshed</itunes:name>
       <itunes:email>podcast@fictionshed.com</itunes:email>
     </itunes:owner>
     <itunes:image href="http://raw.githubusercontent.com/D5120/Fictionshed/master/images/fictioncast.png" />
-    <itunes:category text="Games &amp; Hobbies"/>
-    
-      <item>
-        <title>Podcast 01: What&#x27;s going on...</title>
-        <itunes:author>Fictionshed</itunes:author>
-        <itunes:subtitle>Podcast 01: What&#x27;s going on...</itunes:subtitle>
-        <itunes:summary>The first of hopefully many podcasts, discussing what&#x27;s going on in the Fictionshed world.</itunes:summary>
-        <itunes:image href="" />
-        <enclosure url="http://archive.org/download/fictioncast/fictioncast01.mp3" length="11976704" type="audio/mpeg"/>
-        <guid></guid>
-        <pubDate>Sat, 13 Dec 2008 14:48:02 GMT</pubDate>
-        <itunes:duration>12:28</itunes:duration>
-      </item>
-    
+    <itunes:category text="Games &amp; Hobbies" />
+
+    <item>
+      <title>Podcast 01: What&#x27;s going on...</title>
+      <itunes:author>Fictionshed</itunes:author>
+      <itunes:subtitle>Podcast 01: What&#x27;s going on...</itunes:subtitle>
+      <itunes:summary>The first of hopefully many podcasts, discussing what&#x27;s going on in the Fictionshed world.</itunes:summary>
+      <itunes:image href="" />
+      <enclosure url="http://archive.org/download/fictioncast/fictioncast01.mp3" length="11976704" type="audio/mpeg" />
+      <guid></guid>
+      <pubDate>Sat, 13 Dec 2008 14:48:02 GMT</pubDate>
+      <itunes:duration>12:28</itunes:duration>
+    </item>
+
+    <item>
+      <title>Podcast 02: Working over Christmas...</title>
+      <itunes:author>Fictionshed</itunes:author>
+      <itunes:subtitle>Podcast 02: Working over Christmas...</itunes:subtitle>
+      <itunes:summary>Our second podcast to run through current state of play, release dates, as well as a new project on the horizon?</itunes:summary>
+      <itunes:image href="" />
+      <enclosure url="https://archive.org/download/fictioncast/fictioncast02.mp3" length="21217280" type="audio/mpeg" />
+      <guid></guid>
+      <pubDate>Tue, 30 Dec 2008 15:26:00 GMT</pubDate>
+      <itunes:duration>22:04</itunes:duration>
+    </item>
+
   </channel>
-  </rss>
+</rss>
