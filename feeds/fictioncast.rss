@@ -3,7 +3,7 @@
   <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>FictionCast</title>
-    <link>ttp://feeds.feedburner.com/fictioncast</link>
+    <link>http://feeds.feedburner.com/fictioncast</link>
     <language></language>
     <copyright>Fictionshed</copyright>
     <itunes:subtitle>Fictioncast, the podcast. The Fictionshed team discussing past, present and future projects.</itunes:subtitle>
@@ -22,7 +22,7 @@
         <itunes:subtitle>Podcast 01: What&#x27;s going on...</itunes:subtitle>
         <itunes:summary>The first of hopefully many podcasts, discussing what&#x27;s going on in the Fictionshed world.</itunes:summary>
         <itunes:image href="" />
-        <enclosure url="https://archive.org/download/fictioncast/fictioncast01.mp3" length="11976704" type="audio/mpeg"/>
+        <enclosure url="http://archive.org/download/fictioncast/fictioncast01.mp3" length="11976704" type="audio/mpeg"/>
         <guid></guid>
         <pubDate>Sat, 13 Dec 2008 14:48:02 GMT</pubDate>
         <itunes:duration>12:28</itunes:duration>
