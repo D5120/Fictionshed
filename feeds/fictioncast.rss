@@ -3,6 +3,7 @@
   <channel>
     <title>FictionCast</title>
     <link>http://feeds.feedburner.com/fictioncast</link>
+    <description>Home of the FictionCast Podcast</description>
     <language>en-GB</language>
     <copyright>Fictionshed</copyright>
     <itunes:subtitle>Fictioncast, the podcast. The Fictionshed team discussing past, present and future projects.</itunes:subtitle>
@@ -10,7 +11,7 @@
     <itunes:summary>Fictioncast, the podcast. The Fictionshed team discussing past, present and future projects.</itunes:summary>
     <itunes:owner>
       <itunes:name>Fictionshed</itunes:name>
-      <itunes:email>podcast@fictionshed.com</itunes:email>
+      <itunes:email>fictionshed@ub3rg33k.co.uk</itunes:email>
     </itunes:owner>
     <itunes:image href="http://raw.githubusercontent.com/D5120/Fictionshed/master/images/fictioncast.png" />
     <itunes:category text="Games &amp; Hobbies" />
