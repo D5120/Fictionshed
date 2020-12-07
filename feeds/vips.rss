@@ -58,6 +58,7 @@
 			<title>Episode 01: Pebbles</title>
 			<description>"Pebbles"</description>
 			<pubDate>Sat, 6 Dec 2008 05:22:02 GMT</pubDate>
+			<guid isPermaLink="false">vips01</guid>
 			<enclosure url="http://archive.org/download/viper-pilots/vipsvidcast1.m4v" length="55766619" type="video/x-m4v" />
 			<itunes:duration>10:03</itunes:duration>
 			<itunes:subtitle>Episode 01: Pebbles</itunes:subtitle>
@@ -76,6 +77,7 @@
 			<title>Episode 2: Agnes</title>
 			<description>"Agnes"</description>
 			<pubDate>Sun, 14 Dec 2008 05:22:02 GMT</pubDate>
+			<guid isPermaLink="false">vips02</guid>
 			<enclosure url="http://archive.org/download/viper-pilots/vipsvidcast2.m4v" length="53654860" type="video/x-m4v" />
 			<itunes:duration>16:44</itunes:duration>
 			<itunes:subtitle>Episode 2: Agnes</itunes:subtitle>
@@ -95,6 +97,7 @@
 			<title>Episode 3: Inside the box...canyon</title>
 			<description>"Inside the box...canyon"</description>
 			<pubDate>Sat, 3 Jan 2009 18:48:02 GMT</pubDate>
+			<guid isPermaLink="false">vips03</guid>
 			<enclosure url="http://archive.org/download/viper-pilots/vipsvidcast3.m4v" length="32215040" type="video/x-m4v" />
 			<itunes:duration>10:01</itunes:duration>
 			<itunes:subtitle>Episode 3: Inside the box...canyon</itunes:subtitle>
