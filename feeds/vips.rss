@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+	<rss version="2.0" xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd">
+	<channel>
+		<title>Battlestar Tales: ViPs</title>
+		<link>http://www.viperpilots.co.uk</link>
+		<description>A Fan made machinima adventure based in the Battlestar Galactica Universe. Follow our heros through both war and emotional battles as they patrol the galaxy keeping the Last remnants of humanity safe-ish!</description>
+		<language>en-us</language>
+		<lastBuildDate>Sat, 6 Dec 2008 00:00:02 GMT</lastBuildDate>
+		<generator>tdscripts.com Podcast Generator</generator>
+<copyright>Viperpilots.co.uk </copyright>
+
+		<managingEditor>podcast@Viperpilots.co.uk</managingEditor>
+		<webMaster>podcast@Viperpilots.co.uk</webMaster>
+		<owner>Viperpilots.co.uk</owner>
+		<ttl>1</ttl>
+
+<itunes:keywords>fantasy, battlestar, galactica,fan films,horror,comics,audio drama,audio play,comedy, space</itunes:keywords>
+<itunes:subtitle>A Fan made machinima adventure based in the Battlestar Galactica Universe. Follow our heros through both war and emotional battles as they patrol the galaxy keeping the Last remnants of humanity safe-ish! Produced entirely by volunteers.</itunes:subtitle>
+
+<itunes:summary>A Fan made machinima adventure based in the Battlestar Galactica Universe. Follow our heros through both war and emotional battles as they patrol the galaxy keeping the Last remnants of humanity safe-ish!</itunes:summary>
+<itunes:author>Viperpilots.co.uk</itunes:author>
+
+<itunes:category text="Games &amp; Hobbies" />
+
+<itunes:category text="Comedy" />
+
+
+		<itunes:owner>
+
+			<itunes:name>Battlestar Tales: ViPs</itunes:name>
+
+			<itunes:email>podcast@Viperpilots.co.uk</itunes:email>
+
+		</itunes:owner>
+
+		<itunes:block>No</itunes:block>
+
+		<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://www.viperpilots.co.uk/podcast/vips_podcast144.jpg" />
+
+		<image>
+
+			<url>http://www.viperpilots.co.uk/podcast/vips_podcast144.jpg</url>
+
+			<title>Battlestar Tales: ViPs</title>
+
+			<link>http://www.viperpilots.co.uk</link>
+
+			<width>144</width>
+
+			<height>144</height>
+
+		</image>
+
+<itunes:new-feed-url>http://fictionshed.podbean.com/category/ViperPilots/feed</itunes:new-feed-url>
+
+		<item>
+			<title>Episode 1</title>
+			<description>"Pebbles"</description>
+			<pubDate>Sat, 6 Dec 2008 05:22:02 GMT</pubDate>
+			<enclosure url="http://www.viperpilots.co.uk/podcast/vipsvidcast1.m4v" length="55766619" type="video/x-m4v" />
+<itunes:duration>10:03</itunes:duration>
+<itunes:subtitle>Episode 1, Pebbles</itunes:subtitle>
+<itunes:summary>Two bored Viper Pilots patrolling an asteroid field, what could go wrong? Set during the occupation of New Caprica</itunes:summary>
+
+		<itunes:keywords>fantasy, battlestar, galactica,fan films,horror,comics,audio drama,audio play,comedy, space</itunes:keywords>
+
+<itunes:author>Viperpilots.co.uk</itunes:author>
+
+		<itunes:explicit>no</itunes:explicit>
+
+		<itunes:block>No</itunes:block>
+
+			</item>
+<item>
+			<title>Episode 2</title>
+			<description>"Agnes"</description>
+			<pubDate>Sun, 14 Dec 2008 05:22:02 GMT</pubDate>
+			<enclosure url="http://www.viperpilots.co.uk/podcast/vipsvidcast2.m4v" length="53654860" type="video/x-m4v" />
+<itunes:duration>16:44</itunes:duration>
+<itunes:subtitle>Episode 2, Agnes</itunes:subtitle>
+<itunes:summary>Two bored Viper Pilots patrolling an asteroid field, what could go wrong? Set during the occupation of New Caprica</itunes:summary>
+
+		<itunes:keywords>fantasy, battlestar, galactica,fan films,horror,comics,audio drama,audio play,comedy, space</itunes:keywords>
+
+<itunes:author>Viperpilots.co.uk</itunes:author>
+
+		<itunes:explicit>no</itunes:explicit>
+
+		<itunes:block>No</itunes:block>
+
+			</item>
+			
+			<item>
+			<title>Episode 3</title>
+			<description>"Inside the box.....canyon"</description>
+			<pubDate>Sat, 3 Jan 2009 18:48:02 GMT</pubDate>
+			<enclosure url="http://www.viperpilots.co.uk/podcast/vipsvidcast3.m4v" length="32215040" type="video/x-m4v" />
+<itunes:duration>10:01</itunes:duration>
+<itunes:subtitle>Episode 3, Inside the box.....Canyon</itunes:subtitle>
+<itunes:summary>Two bored Viper Pilots patrolling an asteroid field, what could go wrong? Set during the occupation of New Caprica</itunes:summary>
+
+		<itunes:keywords>fantasy, battlestar, galactica,fan films,horror,comics,audio drama,audio play,comedy, space</itunes:keywords>
+
+<itunes:author>Viperpilots.co.uk</itunes:author>
+
+		<itunes:explicit>no</itunes:explicit>
+
+		<itunes:block>No</itunes:block>
+
+			</item>
+
+
+		</channel>
+	</rss>
