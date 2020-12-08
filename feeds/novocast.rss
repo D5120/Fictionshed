@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>NovoCast</title>
+    <link>http://feeds.feedburner.com/novocast</link>
+    <description>NovoCast, the definitive guide to all things Novo Babylonia. The team answer some of the questions posed about this new fan based project.</description>
+    <language>en-GB</language>
+    <copyright>Fictionshed</copyright>
+    <itunes:subtitle>NovoCast, the definitive guide to all things Novo Babylonia. The team answer some of the questions posed about this new fan based project.</itunes:subtitle>
+    <itunes:author>Fictionshed</itunes:author>
+    <itunes:summary>NovoCast, the definitive guide to all things Novo Babylonia. The team answer some of the questions posed about this new fan based project.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Fictionshed</itunes:name>
+      <itunes:email>fictionshedpodcast@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://raw.githubusercontent.com/D5120/Fictionshed/master/images/novocast.jpg" />
+    <itunes:category text="Games &amp; Hobbies" />
+
+    <item>
+      <title>NovoCast 04</title>
+      <itunes:author>Fictionshed</itunes:author>
+      <itunes:subtitle>NovoCast 04</itunes:subtitle>
+      <itunes:summary>NovoCast, the definitive guide to all things Novo Babylonia. The team answer some of the questions posed about this new fan based project.</itunes:summary>
+      <description>NovoCast, the definitive guide to all things Novo Babylonia. The team answer some of the questions posed about this new fan based project.</description>
+      <enclosure url="https://archive.org/download/guildies/novocast04.mp3" length="20635890" type="audio/mpeg" />
+      <pubDate>Sun, 22 Feb 2009 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">novocast04</guid>
+      <itunes:duration>21:29</itunes:duration>
+    </item>
+
+
+    <item>
+      <title>NovoCast 03</title>
+      <itunes:author>Fictionshed</itunes:author>
+      <itunes:subtitle>NovoCast 03</itunes:subtitle>
+      <itunes:summary>NovoCast, the definitive guide to all things Novo Babylonia. The team answer some of the questions posed about this new fan based project.</itunes:summary>
+      <description>NovoCast, the definitive guide to all things Novo Babylonia. The team answer some of the questions posed about this new fan based project.</description>
+      <enclosure url="https://archive.org/download/guildies/novocast03.mp3" length="9383119" type="audio/mpeg" />
+      <pubDate>Sun, 9 Nov 2008 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">novocast03</guid>
+      <itunes:duration>06:27</itunes:duration>
+    </item>
+
+    <item>
+      <title>NovoCast 02</title>
+      <itunes:author>Fictionshed</itunes:author>
+      <itunes:subtitle>NovoCast 02</itunes:subtitle>
+      <itunes:summary>NovoCast, the definitive guide to all things Novo Babylonia. The team answer some of the questions posed about this new fan based project.</itunes:summary>
+      <description>NovoCast, the definitive guide to all things Novo Babylonia. The team answer some of the questions posed about this new fan based project.</description>
+      <enclosure url="https://archive.org/download/guildies/novocast02.mp3" length="5069637" type="audio/mpeg" />
+      <pubDate>Sun, 12 Oct 2008 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">novocast02</guid>
+      <itunes:duration>03:27</itunes:duration>
+    </item>
+
+    <item>
+      <title>NovoCast 01</title>
+      <itunes:author>Fictionshed</itunes:author>
+      <itunes:subtitle>NovoCast 01</itunes:subtitle>
+      <itunes:summary>NovoCast, the definitive guide to all things Novo Babylonia. The team answer some of the questions posed about this new fan based project.</itunes:summary>
+      <description>NovoCast, the definitive guide to all things Novo Babylonia. The team answer some of the questions posed about this new fan based project.</description>
+      <enclosure url="https://archive.org/download/guildies/novocast01.mp3" length="11775999" type="audio/mpeg" />
+      <pubDate>Mon, 22 Sep 2008 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">novocast01</guid>
+      <itunes:duration>08:07</itunes:duration>
+    </item>
+
+
+  </channel>
+</rss>
