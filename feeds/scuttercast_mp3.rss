@@ -29,11 +29,11 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<itunes:author>Fictionshed</itunes:author>
 	<itunes:image href="http://raw.githubusercontent.com/D5120/Fictionshed/master/images/scuttercast_2012.png" />
 	<itunes:owner>
-		<itunes:name></itunes:name>
+		<itunes:name>Fictionshed</itunes:name>
 		<itunes:email>scuttercast@gmail.com</itunes:email>
 	</itunes:owner>
 	<managingEditor>scuttercast@gmail.com (Fictionshed)</managingEditor>
-	<copyright>RedDwarfForum</copyright>
+	<copyright>Fictionshed</copyright>
 	<itunes:subtitle>The Unofficial Red Dwarf Forum</itunes:subtitle>
 	<image>
 		<title>ScutterCast MP3 Edition</title>
