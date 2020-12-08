@@ -9,39 +9,39 @@
     <pubDate>Tue, 1 Dec 2015 00:00:00 +0000</pubDate>
     <lastBuildDate>Tue, 1 Dec 2015 00:00:00 +0000</lastBuildDate>
     <generator>Libsyn WebEngine 2.0</generator>
-    <link>http://www.galaxyquest.tv</link>
+    <link>http://feeds.feedburner.com/galaxyquest</link>
     <language>en</language>
-    <managingEditor>iTunes@galaxyquest.tv (Fictionshed.com)</managingEditor>
+    <managingEditor>fictionshedpodcast@gmail.com (Fictionshed)</managingEditor>
     <description>
       <![CDATA[The Galaxy Quest Restoration Project: Fictionshed is proud to present a new fan-made audio comedy/drama revealing the early TV adventures of the crew of the N.S.E.A Protector. In 1979, a show hit the airwaves that changed the way in which American audiences would view science fiction on prime-time television. Set in the near future, Galaxy Quest followed a small band of intrepid explorers reaching out to farthest depths of the universe. Each week audiences would follow them into danger, mystery and romance as they meet strange new races and bond friendships. The crew of the N.S.E.A. protector adventurously went from the Monday pre-film at 11 slot to prime-time Saturday viewing. With an average Neilsen rating of 24.5, coming second only to CBS's primetime show MASH. Galaxy Quests main genre competition was with NBC's Buck Rogers in the 25th Century at the time since ABC's Battlestar Galactica had just finished it's second and final season. After the show was cancelled in 1982 due to negotiations failed to renew contracts with the cast. The show disappeared into oblivion whilst fans campaigned to have the show resumed, it failed to have any effect. Fast forward to 2012 and an old studio basement in uptown L.A. the original video tapes of the shows where found - the only ones known to be in existence. These tapes however had become damaged and Fictionshed's Mike Morley handed to media restoration expert, James Johnson of Johnson's Media Factory of Avon Lake Ohio. This is where the Galaxy Quest Restoration Project began.. Fictionshed are proud to present a new fan-made audio comedy/drama revealing the early adventures of the crew of the N.S.E.A Protector. This is a free to download fan-made production, No Ke'pla-ticks where hurt during production. ]]>
     </description>
 
     <image>
-      <url>http://galaxyquest.tv/mp3/itunes.jpg</url>
+      <url>http://raw.githubusercontent.com/D5120/Fictionshed/master/images/galaxyquest.jpg</url>
       <title>The Galaxy Quest Restoration Project</title>
       <link>
-        <![CDATA[http://www.galaxyquest.tv]]>
+        <![CDATA[http://feeds.feedburner.com/galaxyquest]]>
       </link>
     </image>
 
-    <itunes:author>FictionShed.com</itunes:author>
+    <itunes:author>Fictionshed</itunes:author>
     <itunes:keywords>free,fan,fiction,fantasy,scifi,galaxy,quest,audio drama,Podcast,Sci,fi,fantasy</itunes:keywords>
-    <itunes:image href="http://www.galaxyquest.tv/mp3/itunes.jpg" />
+    <itunes:image href="http://raw.githubusercontent.com/D5120/Fictionshed/master/images/galaxyquest.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>In 1979, a show hit the airwaves that changed the way in which American audiences would view science fiction on prime-time television. Set in the near future, Galaxy Quest followed a small band of intrepid explorers reaching out to farthest depths of the universe. Each week audiences would follow them into danger, mystery and romance as they meet strange new races and bond friendships. The crew of the N.S.E.A. protector adventurously went from the Monday pre-film at 11 slot to prime-time Saturday viewing. With an average Neilsen rating of 24.5, coming second only to CBS's primetime show MASH. Galaxy Quests main genre competition was with NBC's Buck Rogers in the 25th Century at the time since ABC's Battlestar Galactica had just finished it's second and final season. After the show was cancelled in 1982 due to negotiations failed to renew contracts with the cast. The show disappeared into oblivion whilst fans campaigned to have the show resumed, it failed to have any effect. Fast forward to 2012 and an old studio basement in uptown L.A. the original video tapes of the shows where found - the only ones known to be in existence. These tapes however had become damaged and Fictionshed's Mike Morley handed to media restoration expert, James Johnson of Johnson's Media Factory of Avon Lake Ohio. This is where the Galaxy Quest Restoration Project began.. Fictionshed are proud to present a new fan-made audio comedy/drama revealing the early adventures of the crew of the N.S.E.A Protector. Starring: Karim C Kronfli as Cmdr Peter Q Taggart, Jen Rhodes as Lt. Tawny Madison, Tony Lunn as Dr. Lazarus, Susan J Ritta as Loredo and Rick Moyer as Tech Sergeant Chen. This is a free fan-made production, No Ke'pla-ticks where hurt during production.</itunes:summary>
     <itunes:subtitle>The Galaxy Quest Restoration Project</itunes:subtitle>
 
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.galaxyquest.tv/feed.rss" />
-    <feedburner:info uri="www.galaxyquest.tv/feed.rss" />
-    <media:thumbnail url="http://www.galaxyquest.tv/mp3/itunes.jpg" />
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://http://feeds.feedburner.com/galaxyquest" />
+    <feedburner:info uri="http://feeds.feedburner.com/galaxyquest" />
+    <media:thumbnail url="http://raw.githubusercontent.com/D5120/Fictionshed/master/images/galaxyquest.jpg" />
     <media:keywords>free,fan,fiction,fantasy,scifi,galaxy,quest,audio drama,Podcast,Sci,fi,fantasy</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">TV &amp; Film</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Society &amp; Culture</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Arts/Performing Arts</media:category>
 
     <itunes:owner>
-      <itunes:email>iTunes@galaxyquest.tv</itunes:email>
-      <itunes:name>FictionShed.com</itunes:name>
+      <itunes:email>fictionshedpodcast@gmail.com</itunes:email>
+      <itunes:name>Fictionshed</itunes:name>
     </itunes:owner>
 
     <itunes:category text="TV &amp; Film" />
@@ -55,19 +55,19 @@
     <!-- Items below here -->
 
     <item>
-      <title>Episode: Grey is Gray (with Special Introduction by Al Kessel)</title>
+      <title>Episode 01: Grey is Gray</title>
 
       <pubDate>Tue, 1 Dec 2015 00:00:00 +0000</pubDate>
 
-      <guid isPermaLink="false">http://media.blubrry.com/gq/http://www.galaxyquest.tv/mp3/GQ_Grey_is_Gray.mp3</guid>
+      <guid isPermaLink="false">galaxyquest1.mp3</guid>
 
-      <link>http://media.blubrry.com/gq/http://www.galaxyquest.tv/mp3/GQ_Grey_is_Gray.mp3</link>
+      <link>http://archive.org/download/galaxyquestrestorationproject/galaxyquest1.mp3</link>
 
-      <media:thumbnail url="http://galaxyquest.tv/mp3/itunes.jpg" />
+      <media:thumbnail url="http://raw.githubusercontent.com/D5120/Fictionshed/master/images/galaxyquest.jpg" />
 
       <description>
-        <![CDATA[Episode: Grey is Gray (with Special Introduction by Al Kessel) By David A Mackenzie<br /> 
-The GQRP are proud to release the re-mastered audio from the episode - Grey is Gray (with Special Introduction by Al Kessel). The intrepid crew of the NSEA Protector are due some well-earned shore leave after a long mission. Little do they know that their journey home is about to take an unexpected detour.....  Produced by Fictionshed.com<br /> 
+        <![CDATA[Episode 01: Grey is Gray (with Special Introduction by Al Kessel) By David A Mackenzie<br /> 
+The GQRP are proud to release the re-mastered audio from the episode - Grey is Gray (with Special Introduction by Al Kessel). The intrepid crew of the NSEA Protector are due some well-earned shore leave after a long mission. Little do they know that their journey home is about to take an unexpected detour.....  Produced by Fictionshed<br /> 
 <br />
 Starring:<br />
 <br />
@@ -82,42 +82,42 @@ Also featuring Al Kessel and special guest star Michael Liebmann as Instructor 2
 ]]>
       </description>
 
-      <itunes:duration>21:15</itunes:duration>
+      <itunes:duration>21:55</itunes:duration>
 
 
-      <itunes:subtitle>Episode: Grey is Gray (with Special Introduction by Al Kessel)</itunes:subtitle>
+      <itunes:subtitle>Episode 01: Grey is Gray (with Special Introduction by Al Kessel)</itunes:subtitle>
 
 
-      <media:content url="http://media.blubrry.com/gq/http://www.galaxyquest.tv/mp3/GQ_Grey_is_Gray.mp3" fileSize="20971520" type="audio/mpeg" />
+      <media:content url="http://archive.org/download/galaxyquestrestorationproject/galaxyquest1.mp3" fileSize="20971520" type="audio/mpeg" />
 
 
-      <enclosure url="http://media.blubrry.com/gq/http://www.galaxyquest.tv/mp3/GQ_Grey_is_Gray.mp3" length="20971520" type="audio/mpeg" />
+      <enclosure url="http://archive.org/download/galaxyquestrestorationproject/galaxyquest1.mp3" length="20971520" type="audio/mpeg" />
 
-      <feedburner:origEnclosureLink>http://media.blubrry.com/gq/http://www.galaxyquest.tv/mp3/GQ_Grey_is_Gray.mp3</feedburner:origEnclosureLink>
+      <feedburner:origEnclosureLink>http://archive.org/download/galaxyquestrestorationproject/galaxyquest1.mp3</feedburner:origEnclosureLink>
 
       <!-- Do not change below here -->
-      <itunes:image href="http://galaxyquest.tv/mp3/itunes.jpg" />
+      <itunes:image href="http://raw.githubusercontent.com/D5120/Fictionshed/master/images/galaxyquest.jpg" />
       <itunes:explicit>no</itunes:explicit>
-      <author>info@Fictionshed.com (Fictionshed)</author>
-      <itunes:author>Fictionshed.com</itunes:author>
+      <author>fictionshedpodcast@gmail.com (Fictionshed)</author>
+      <itunes:author>Fictionshed</itunes:author>
       <itunes:keywords>free,fan,fiction,fantasy,scifi,galaxy,quest,audio drama,Podcast,Sci,fi,fantasy</itunes:keywords>
     </item>
 
 
     <item>
-      <title>Episode: Lilith (with Gwen DeMarco interview)</title>
+      <title>Episode 02: Lilith</title>
 
-      <pubDate>Tue, 1 Dec 2015 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 1 Dec 2015 01:00:00 +0000</pubDate>
 
-      <guid isPermaLink="false">http://media.blubrry.com/gq/http://www.galaxyquest.tv/mp3/GQ_Lilith.mp3</guid>
+      <guid isPermaLink="false">http://archive.org/download/galaxyquestrestorationproject/galaxyquest2.mp3</guid>
 
-      <link>http://media.blubrry.com/gq/http:/www.galaxyquest.tv/mp3/GQ_Lilith.mp3</link>
+      <link>http://archive.org/download/galaxyquestrestorationproject/galaxyquest2.mp3</link>
 
-      <media:thumbnail url="http://galaxyquest.tv/mp3/itunes.jpg" />
+      <media:thumbnail url="http://raw.githubusercontent.com/D5120/Fictionshed/master/images/galaxyquest.jpg" />
 
       <description>
-        <![CDATA[Episode: Lilith (with Gwen DeMarco interview) <br /> 
-Follow the adventures of the intrepid crew of the NSEA Protector as the meet 'Lilith' and ancient being with ancient being with ancient powers! Will she be friend or foe? Also includes bonus introduction feature - Al Kessel interviews Gwen DeMarco. Written by David A. Mackenzie. Interview written by Simon Meddings. Produced by Fictionshed.com<br /> 
+        <![CDATA[Episode 02: Lilith (with Gwen DeMarco interview) <br /> 
+Follow the adventures of the intrepid crew of the NSEA Protector as the meet 'Lilith' and ancient being with ancient being with ancient powers! Will she be friend or foe? Also includes bonus introduction feature - Al Kessel interviews Gwen DeMarco. Written by David A. Mackenzie. Interview written by Simon Meddings. Produced by Fictionshed<br /> 
 <br />
 Starring:<br />
 <br />
@@ -135,39 +135,39 @@ Also featuring Al Kessel and special guest star Sarah Golding as Lilith.<br />
       <itunes:duration>29:00</itunes:duration>
 
 
-      <itunes:subtitle>Episode: Lilith (with Gwen DeMarco interview)</itunes:subtitle>
+      <itunes:subtitle>Episode 02: Lilith (with Gwen DeMarco interview)</itunes:subtitle>
 
 
-      <media:content url="http://media.blubrry.com/gq/http://www.galaxyquest.tv/mp3/GQ_Lilith.mp3" fileSize="55679385" type="audio/mpeg" />
+      <media:content url="http://archive.org/download/galaxyquestrestorationproject/galaxyquest2.mp3" fileSize="55679385" type="audio/mpeg" />
 
 
-      <enclosure url="http://media.blubrry.com/gq/http://www.galaxyquest.tv/mp3/GQ_Lilith.mp3" length="55679385" type="audio/mpeg" />
+      <enclosure url="http://archive.org/download/galaxyquestrestorationproject/galaxyquest2.mp3" length="55679385" type="audio/mpeg" />
 
-      <feedburner:origEnclosureLink>http://media.blubrry.com/gq/http://www.galaxyquest.tv/mp3/GQ_Lilith.mp3</feedburner:origEnclosureLink>
+      <feedburner:origEnclosureLink>http://archive.org/download/galaxyquestrestorationproject/galaxyquest2.mp3</feedburner:origEnclosureLink>
 
       <!-- Do not change below here -->
-      <itunes:image href="http://galaxyquest.tv/mp3/itunes.jpg" />
+      <itunes:image href="http://raw.githubusercontent.com/D5120/Fictionshed/master/images/galaxyquest.jpg" />
       <itunes:explicit>no</itunes:explicit>
-      <author>info@Fictionshed.com (Fictionshed)</author>
-      <itunes:author>Fictionshed.com</itunes:author>
+      <author>fictionshedpodcast@gmail.com (Fictionshed)</author>
+      <itunes:author>Fictionshed</itunes:author>
       <itunes:keywords>free,fan,fiction,fantasy,scifi,galaxy,quest,audio drama,Podcast,Sci,fi,fantasy</itunes:keywords>
     </item>
 
 
     <item>
-      <title>Episode: Balance of Darkness (with Sir Alexander Dane Interview) - Parsec Award Winner 2016</title>
+      <title>Episode 03: Balance of Darkness</title>
 
-      <pubDate>Tue, 1 Dec 2015 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 1 Dec 2015 02:00:00 +0000</pubDate>
 
-      <guid isPermaLink="false">http://media.blubrry.com/gq/http://www.galaxyquest.tv/mp3/GQ_Balance_of_Darkness.mp3</guid>
+      <guid isPermaLink="false">http://archive.org/download/galaxyquestrestorationproject/galaxyquest3.mp3</guid>
 
-      <link>http://media.blubrry.com/gq/http:/www.galaxyquest.tv/mp3/GQ_Balance_of_Darkness.mp3</link>
+      <link>http://archive.org/download/galaxyquestrestorationproject/galaxyquest3.mp3</link>
 
-      <media:thumbnail url="http://galaxyquest.tv/mp3/itunes.jpg" />
+      <media:thumbnail url="http://raw.githubusercontent.com/D5120/Fictionshed/master/images/galaxyquest.jpg" />
 
       <description>
-        <![CDATA[Episode: Balance of Darkness  (with Sir Alexander Dane Interview)  - Parsec Award Winner 2016<br /> 
-A viral infection has ran wild through Beliaeva mining colony since it was first established. Promising vaccines have only resulted in the virus mutating into a stronger form. The NSEA considers drastic measures as the virus manifests itself on other colonies when a young cadet comes from nowhere with a cure, but is it too little, too late? Written by David A MacKenzie. Interview written by Simon Meddings. Produced by Fictionshed.com<br /> 
+        <![CDATA[Episode 03: Balance of Darkness (with Sir Alexander Dane Interview) - Parsec Award Winner 2016<br /> 
+A viral infection has ran wild through Beliaeva mining colony since it was first established. Promising vaccines have only resulted in the virus mutating into a stronger form. The NSEA considers drastic measures as the virus manifests itself on other colonies when a young cadet comes from nowhere with a cure, but is it too little, too late? Written by David A MacKenzie. Interview written by Simon Meddings. Produced by Fictionshed<br /> 
 <br />
 Starring:<br />
 <br />
@@ -185,26 +185,26 @@ Also featuring Al Kessel and special guest stars Sara Higgins Mackenzie and Alex
       <itunes:duration>39:30</itunes:duration>
 
 
-      <itunes:subtitle>Episode: Balance of Darkness (with Sir Alexander Dane Interview)  - Parsec Award Winner 2016</itunes:subtitle>
+      <itunes:subtitle>Episode 03: Balance of Darkness (with Sir Alexander Dane Interview)  - Parsec Award Winner 2016</itunes:subtitle>
 
 
-      <media:content url="http://media.blubrry.com/gq/http://www.galaxyquest.tv/mp3/GQ_Balance_of_Darkness.mp3" fileSize="37958451" type="audio/mpeg" />
+      <media:content url="http://archive.org/download/galaxyquestrestorationproject/galaxyquest3.mp3" fileSize="37958451" type="audio/mpeg" />
 
 
-      <enclosure url="http://media.blubrry.com/gq/http://www.galaxyquest.tv/mp3/GQ_Balance_of_Darkness.mp3" length="37958451" type="audio/mpeg" />
+      <enclosure url="http://archive.org/download/galaxyquestrestorationproject/galaxyquest3.mp3" length="37958451" type="audio/mpeg" />
 
-      <feedburner:origEnclosureLink>http://media.blubrry.com/gq/http://www.galaxyquest.tv/mp3/GQ_Balance_of_Darkness.mp3</feedburner:origEnclosureLink>
+      <feedburner:origEnclosureLink>http://archive.org/download/galaxyquestrestorationproject/galaxyquest3.mp3</feedburner:origEnclosureLink>
 
       <!-- Do not change below here -->
-      <itunes:image href="http://galaxyquest.tv/mp3/itunes.jpg" />
+      <itunes:image href="http://raw.githubusercontent.com/D5120/Fictionshed/master/images/galaxyquest.jpg" />
       <itunes:explicit>no</itunes:explicit>
-      <author>info@Fictionshed.com (Fictionshed)</author>
-      <itunes:author>Fictionshed.com</itunes:author>
+      <author>fictionshedpodcast@gmail.com (Fictionshed)</author>
+      <itunes:author>Fictionshed</itunes:author>
       <itunes:keywords>free,fan,fiction,fantasy,scifi,galaxy,quest,audio drama,Podcast,Sci,fi,fantasy</itunes:keywords>
     </item>
 
 
-    <media:credit role="author">Fictionshed.com</media:credit>
+    <media:credit role="author">Fictionshed</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">The Galaxy Quest Restoration Project: Fictionshed is proud to present a new fan-made audio comedy/drama revealing the early TV adventures of the crew of the N.S.E.A Protector. In 1979, a show hit the airwaves that changed the way in which American audiences would view science fiction on prime-time television. Set in the near future, Galaxy Quest followed a small band of intrepid explorers reaching out to farthest depths of the universe. Each week audiences would follow them into danger, mystery and romance as they meet strange new races and bond friendships. The crew of the N.S.E.A. protector adventurously went from the Monday pre-film at 11 slot to prime-time Saturday viewing. With an average Neilsen rating of 24.5, coming second only to CBS's primetime show MASH. Galaxy Quests main genre competition was with NBC's Buck Rogers in the 25th Century at the time since ABC's Battlestar Galactica had just finished it's second and final season. After the show was cancelled in 1982 due to negotiations failed to renew contracts with the cast. The show disappeared into oblivion whilst fans campaigned to have the show resumed, it failed to have any effect. Fast forward to 2012 and an old studio basement in uptown L.A. the original video tapes of the shows where found - the only ones known to be in existence. These tapes however had become damaged and Fictionshed's Mike Morley handed to media restoration expert, James Johnson of Johnson's Media Factory of Avon Lake Ohio. This is where the Galaxy Quest Restoration Project began.. Fictionshed are proud to present a new fan-made audio comedy/drama revealing the early adventures of the crew of the N.S.E.A Protector. Starring: Karim C Kronfli as Cmdr Peter Q Taggart, Jen Rhodes as Lt. Tawny Madison, Tony Lunn as Dr. Lazarus, Susan J Ritta as Loredo and Rick Moyer as Tech Sergeant Chen. This is a free fan-made production, No Ke'pla-ticks where hurt during production.</media:description>
   </channel>
