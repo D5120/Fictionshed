@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Battlestar Tales: ViPs</title>
+    <link>http://feeds.feedburner.com/guildies</link>
+    <description>Meet Dwayne the Hunter, Gary the Rogue and a host of others as they begin there adventures in Azeroth.</description>
+    <language>en-GB</language>
+    <copyright>Fictionshed</copyright>
+    <itunes:subtitle>Meet Dwayne the Hunter, Gary the Rogue and a host of others as they begin there adventures in Azeroth.</itunes:subtitle>
+    <itunes:author>Fictionshed</itunes:author>
+    <itunes:summary>Meet Dwayne the Hunter, Gary the Rogue and a host of others as they begin there adventures in Azeroth.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Fictionshed</itunes:name>
+      <itunes:email>fictionshedpodcast@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://raw.githubusercontent.com/D5120/Fictionshed/master/images/guildies.jpg" />
+    <itunes:category text="Games &amp; Hobbies" />
+
+
+
+
+
+    <item>
+      <title>Guildies | Episode 1 | The one with the song...</title>
+      <itunes:author>Fictionshed</itunes:author>
+      <itunes:subtitle>The one with the song...</itunes:subtitle>
+      <itunes:summary>Meet Dwayne the Hunter, Gary the Rogue and a host of others as they begin there adventures in Azeroth.</itunes:summary>
+	  <description>The one with the song...</description>
+      <enclosure url="https://archive.org/download/guildies/guildies01.mp3" length="8861251" type="audio/mpeg" />
+      <pubDate>Sat, 6 Dec 2008 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">guildies01</guid>
+      <itunes:duration>09:12</itunes:duration>
+    </item>
+
+
+  </channel>
+</rss>
