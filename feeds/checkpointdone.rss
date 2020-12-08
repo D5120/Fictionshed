@@ -25,7 +25,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 		<generator>https://wordpress.org/?v=5.4.2</generator>
 
 <image>
-	<url>https://raw.githubusercontent.com/D5120/Fictionshed/master/images/checkpointdone.png</url>
+	<url>http://raw.githubusercontent.com/D5120/Fictionshed/master/images/checkpointdone.png</url>
 	<title>CheckPointDone!</title>
 	<link>http://feeds.feedburner.com/checkpointdone</link>
 	<width>32</width>
@@ -36,7 +36,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 Feel free to get in contact by twitter @checkpointdone, via email checkpointdonepodcast@gmail.com or pop to the site checkpointdone.com</itunes:summary>
 	<itunes:author>Fictionshed</itunes:author>
 	<itunes:explicit>yes</itunes:explicit>
-	<itunes:image href="https://raw.githubusercontent.com/D5120/Fictionshed/master/images/checkpointdone.png" />
+	<itunes:image href="http://raw.githubusercontent.com/D5120/Fictionshed/master/images/checkpointdone.png" />
 	<itunes:owner>
 		<itunes:name>CheckPointDone!</itunes:name>
 		<itunes:email>checkpointdonepodcast@gmail.com</itunes:email>
@@ -46,7 +46,7 @@ Feel free to get in contact by twitter @checkpointdone, via email checkpointdone
 	<itunes:subtitle>Home of the CheckPointDone Podcast!</itunes:subtitle>
 	<image>
 		<title>CheckPointDone!</title>
-		<url>https://raw.githubusercontent.com/D5120/Fictionshed/master/images/checkpointdone.png</url>
+		<url>http://raw.githubusercontent.com/D5120/Fictionshed/master/images/checkpointdone.png</url>
 		<link>http://feeds.feedburner.com/checkpointdone</link>
 	</image>
 	<itunes:category text="Games &amp; Hobbies">
