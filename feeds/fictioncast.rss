@@ -17,6 +17,18 @@
     <itunes:category text="Games &amp; Hobbies" />
 
     <item>
+      <title>FictionCast 14: Back to the Podcast!</title>
+      <itunes:author>Fictionshed</itunes:author>
+      <itunes:subtitle>FictionCast 14: Back to the Podcast!</itunes:subtitle>
+      <itunes:summary>Darren and Tony regroup 10 years on and discuss the story so far.</itunes:summary>
+	  <description>Darren and Tony regroup 10 years on and discuss the story so far.</description>
+      <enclosure url="https://archive.org/download/fictioncast/fictioncast14.mp3" length="47331960" type="audio/mpeg" />
+      <pubDate>Thu, 17 Dec 2020 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">fictioncast14</guid>
+      <itunes:duration>49:14</itunes:duration>
+    </item>
+
+    <item>
       <title>FictionCast 13: Just the four of us</title>
       <itunes:author>Fictionshed</itunes:author>
       <itunes:subtitle>FictionCast 13: Just the four of us</itunes:subtitle>
